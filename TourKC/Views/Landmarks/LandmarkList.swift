@@ -10,16 +10,22 @@ import SwiftUI
 struct LandmarkList: View {
     @EnvironmentObject var modelData: ModelData
     @State private var showFavoritesOnly = false
+    @State private var search = ""
 
     var filteredLandmarks: [Landmark] {
         modelData.landmarks.filter { landmark in
             (!showFavoritesOnly || landmark.isFavorite)
+        }
+        .filter { landmark in
+            (search == "" || landmark.name.contains(search))
         }
     }
 
     var body: some View {
         NavigationView {
             List {
+                TextField("Search", text: $search)
+                
                 Toggle(isOn: $showFavoritesOnly) {
                     Text("Favorites only")
                 }
