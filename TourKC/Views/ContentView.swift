@@ -22,12 +22,14 @@ struct ContentView: View {
                     Label("Featured", systemImage: "star")
                 }
                 .tag(Tab.featured)
+                .environmentObject(ModelData())
 
             LandmarkList()
                 .tabItem {
                     Label("List", systemImage: "list.bullet")
                 }
                 .tag(Tab.list)
+                .environmentObject(ModelData())
         }
     }
 }
