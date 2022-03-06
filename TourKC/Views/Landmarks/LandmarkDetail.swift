@@ -33,7 +33,6 @@ struct LandmarkDetail: View {
                 }
 
                 HStack {
-                    Text(landmark.park)
                     Spacer()
                     Text(landmark.state)
                 }
