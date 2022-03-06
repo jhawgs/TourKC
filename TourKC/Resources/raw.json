@@ -8,7 +8,9 @@
         "id": 1001,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.1766, \"longitude\": -94.4862}"
+        "coordinates": "{\"lattitude\": 39.1766, \"longitude\": -94.4862}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Oceans of Fun",
@@ -19,7 +21,9 @@
         "id": 1002,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.1766, \"longitude\": -94.4862}"
+        "coordinates": "{\"lattitude\": 39.1766, \"longitude\": -94.4862}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Kansas City Zoo",
@@ -30,7 +34,9 @@
         "id": 1003,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0069, \"longitude\": -94.5292}"
+        "coordinates": "{\"lattitude\": 39.0069, \"longitude\": -94.5292}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Topeka Zoo",
@@ -41,7 +47,9 @@
         "id": 1004,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0561, \"longitude\": -95.7269}"
+        "coordinates": "{\"lattitude\": 39.0561, \"longitude\": -95.7269}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Lego Land",
@@ -52,7 +60,9 @@
         "id": 1005,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0821, \"longitude\": -94.5813}"
+        "coordinates": "{\"lattitude\": 39.0821, \"longitude\": -94.5813}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "BreakoutKC",
@@ -63,7 +73,9 @@
         "id": 1006,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0821, \"longitude\": -94.5813}"
+        "coordinates": "{\"lattitude\": 39.0821, \"longitude\": -94.5813}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Sea Life Kansas City",
@@ -74,7 +86,9 @@
         "id": 1007,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\":39.10965, \"longitude\": -94.58548}"
+        "coordinates": "{\"lattitude\":39.10965, \"longitude\": -94.58548}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Sea World",
@@ -85,7 +99,9 @@
         "id": 1008,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.080995, \"longitude\":- 94.581442}"
+        "coordinates": "{\"lattitude\": 39.080995, \"longitude\":- 94.581442}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "IFly",
@@ -96,7 +112,9 @@
         "id": 1009,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 38.9303, \"longitude\": -94.6663}"
+        "coordinates": "{\"lattitude\": 38.9303, \"longitude\": -94.6663}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Kansas City Speedway",
@@ -107,7 +125,9 @@
         "id": 1010,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.1117, \"longitude\": -94.8276}"
+        "coordinates": "{\"lattitude\": 39.1117, \"longitude\": -94.8276}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Sporting KC/ Children's Mercy Park",
@@ -118,7 +138,9 @@
         "id": 1011,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.1216, \"longitude\": -94.8232}"
+        "coordinates": "{\"lattitude\": 39.1216, \"longitude\": -94.8232}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Chiefs/Arrowhead Staduim",
@@ -129,7 +151,9 @@
         "id": 1012,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0489, \"longitude\": -94.4839}"
+        "coordinates": "{\"lattitude\": 39.0489, \"longitude\": -94.4839}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Royals/Kauffman Stadium",
@@ -140,7 +164,9 @@
         "id": 1013,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0517, \"longitude\": -94.4803}"
+        "coordinates": "{\"lattitude\": 39.0517, \"longitude\": -94.4803}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Negro Baseball Hall of Fame",
@@ -151,7 +177,9 @@
         "id": 1014,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0914, \"longitude\": -94.5627}"
+        "coordinates": "{\"lattitude\": 39.0914, \"longitude\": -94.5627}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Allen Fieldhouse",
@@ -162,7 +190,9 @@
         "id": 1015,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 38.9542, \"longitude\": -95.2528}"
+        "coordinates": "{\"lattitude\": 38.9542, \"longitude\": -95.2528}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Top Golf",
@@ -173,7 +203,9 @@
         "id": 1016,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 38.9365, \"longitude\": -94.6482}"
+        "coordinates": "{\"lattitude\": 38.9365, \"longitude\": -94.6482}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "American Jazz Museum",
@@ -184,7 +216,9 @@
         "id": 1017,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 38.9365, \"longitude\": -94.6482}"
+        "coordinates": "{\"lattitude\": 38.9365, \"longitude\": -94.6482}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "WW1 Museum ",
@@ -195,7 +229,9 @@
         "id": 1018,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0807, \"longitude\": -94.5861}"
+        "coordinates": "{\"lattitude\": 39.0807, \"longitude\": -94.5861}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Nelson Atkins Museum ",
@@ -206,7 +242,9 @@
         "id": 1019,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0450, \"longitude\": -94.5809}"
+        "coordinates": "{\"lattitude\": 39.0450, \"longitude\": -94.5809}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Union Station",
@@ -217,7 +255,9 @@
         "id": 1020,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0853, \"longitude\": -94.5856}"
+        "coordinates": "{\"lattitude\": 39.0853, \"longitude\": -94.5856}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Science City",
@@ -228,7 +268,9 @@
         "id": 1021,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0853, \"longitude\": -94.5856}"
+        "coordinates": "{\"lattitude\": 39.0853, \"longitude\": -94.5856}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Steamboat Arabia",
@@ -239,7 +281,9 @@
         "id": 1022,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.1095, \"longitude\": -94.5814}"
+        "coordinates": "{\"lattitude\": 39.1095, \"longitude\": -94.5814}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Museum at Prariefire",
@@ -250,7 +294,9 @@
         "id": 1023,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 38.8819, \"longitude\": -94.6521}"
+        "coordinates": "{\"lattitude\": 38.8819, \"longitude\": -94.6521}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Money Museum",
@@ -261,7 +307,9 @@
         "id": 1024,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\":  39.1034, \"longitude\":-94.5809}"
+        "coordinates": "{\"lattitude\":  39.1034, \"longitude\":-94.5809}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Boulevard Brewing Co",
@@ -272,7 +320,9 @@
         "id": 1025,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0821,  \"longitude\":-94.5967}"
+        "coordinates": "{\"lattitude\": 39.0821,  \"longitude\":-94.5967}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Joes Barbacue",
@@ -283,7 +333,9 @@
         "id": 1026,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 38.9152,  \"longitude\":-94.6393}"
+        "coordinates": "{\"lattitude\": 38.9152,  \"longitude\":-94.6393}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "City Market",
@@ -294,7 +346,9 @@
         "id": 1027,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.1101,  \"longitude\":-94.5818}"
+        "coordinates": "{\"lattitude\": 39.1101,  \"longitude\":-94.5818}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Christopher Elbow Chocolates",
@@ -305,7 +359,9 @@
         "id": 1028,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0909,  \"longitude\":-94.5800}"
+        "coordinates": "{\"lattitude\": 39.0909,  \"longitude\":-94.5800}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Overland Park Farmers Market",
@@ -316,7 +372,9 @@
         "id": 1029,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 38.9848,  \"longitude\":--94.6704}"
+        "coordinates": "{\"lattitude\": 38.9848,  \"longitude\":--94.6704}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Deanna Rose Farmstead",
@@ -327,7 +385,9 @@
         "id": 1030,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 38.8777,  \"longitude\":-94.7033}"
+        "coordinates": "{\"lattitude\": 38.8777,  \"longitude\":-94.7033}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Overland Park Arboretum & Botanical Gardens",
@@ -338,7 +398,9 @@
         "id": 1031,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 38.7978,  \"longitude\":-94.6910}"
+        "coordinates": "{\"lattitude\": 38.7978,  \"longitude\":-94.6910}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Lakeside Nature Center",
@@ -349,7 +411,9 @@
         "id": 1032,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 38.9953,  \"longitude\":-94.5319}"
+        "coordinates": "{\"lattitude\": 38.9953,  \"longitude\":-94.5319}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Rock City",
@@ -360,7 +424,9 @@
         "id": 1033,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.9785,  \"longitude\":-95.2994}"
+        "coordinates": "{\"lattitude\": 39.9785,  \"longitude\":-95.2994}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "4-State Lookout (Kansas, Iowa, Nebraska, Missouri)",
@@ -371,7 +437,9 @@
         "id": 1034,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.9738,  \"longitude\":-95.2951}"
+        "coordinates": "{\"lattitude\": 39.9738,  \"longitude\":-95.2951}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Elk River Hiking Trail",
@@ -382,7 +450,9 @@
         "id": 1035,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\":37.2892,  \"longitude\":-95.91165}"
+        "coordinates": "{\"lattitude\":37.2892,  \"longitude\":-95.91165}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Legends Mall",
@@ -393,7 +463,9 @@
         "id": 1036,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.1267,  \"longitude\":-94.8260}"
+        "coordinates": "{\"lattitude\": 39.1267,  \"longitude\":-94.8260}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Oak Park Mall",
@@ -404,7 +476,9 @@
         "id": 1037,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 38.9531,  \"longitude\":-94.7196}"
+        "coordinates": "{\"lattitude\": 38.9531,  \"longitude\":-94.7196}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Country Club Plaza",
@@ -415,7 +489,9 @@
         "id": 1038,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0420,  \"longitude\":-94.5926}"
+        "coordinates": "{\"lattitude\": 39.0420,  \"longitude\":-94.5926}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Crown Center",
@@ -426,7 +502,9 @@
         "id": 1039,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0810,  \"longitude\":-94.5816}"
+        "coordinates": "{\"lattitude\": 39.0810,  \"longitude\":-94.5816}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Kauffman Center",
@@ -437,7 +515,9 @@
         "id": 1040,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0941,  \"longitude\":-94.5876}"
+        "coordinates": "{\"lattitude\": 39.0941,  \"longitude\":-94.5876}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "T-Mobile Center",
@@ -448,7 +528,9 @@
         "id": 1041,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0975,  \"longitude\":-94.5802}"
+        "coordinates": "{\"lattitude\": 39.0975,  \"longitude\":-94.5802}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Starlight Theater",
@@ -459,7 +541,9 @@
         "id": 1042,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0075,  \"longitude\":-94.5328}"
+        "coordinates": "{\"lattitude\": 39.0075,  \"longitude\":-94.5328}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "TruckHenge",
@@ -470,7 +554,9 @@
         "id": 1043,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0792,  \"longitude\":-95.6018}"
+        "coordinates": "{\"lattitude\": 39.0792,  \"longitude\":-95.6018}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Oz Museum",
@@ -481,7 +567,9 @@
         "id": 1044,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.2026,  \"longitude\":-96.3054}"
+        "coordinates": "{\"lattitude\": 39.2026,  \"longitude\":-96.3054}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "World's Largest Collections of Smallest Versions of Largest Things",
@@ -492,7 +580,9 @@
         "id": 1045,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.2026,  \"longitude\":-96.3054}"
+        "coordinates": "{\"lattitude\": 39.2026,  \"longitude\":-96.3054}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "Giant Van Gogh Painting",
@@ -503,7 +593,9 @@
         "id": 1046,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.3508,  \"longitude\":-101.7102}"
+        "coordinates": "{\"lattitude\": 39.3508,  \"longitude\":-101.7102}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "The Big Well",
@@ -514,7 +606,9 @@
         "id": 1047,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 37.6034,  \"longitude\":-99.2944}"
+        "coordinates": "{\"lattitude\": 37.6034,  \"longitude\":-99.2944}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "World's Largest Ball of Twine",
@@ -525,7 +619,9 @@
         "id": 1048,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 45.0963,  \"longitude\":-94.4103}"
+        "coordinates": "{\"lattitude\": 45.0963,  \"longitude\":-94.4103}",
+        "description": " ",
+        "imagename": " "
     },
     {
         "name": "World's Largest Czech Egg",
@@ -536,6 +632,8 @@
         "id": 1049,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 38.8242,  \"longitude\":-98.4727}"
+        "coordinates": "{\"lattitude\": 38.8242,  \"longitude\":-98.4727}",
+        "description": " ",
+        "imagename": " "
     }
 ]
