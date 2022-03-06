@@ -307,7 +307,7 @@
         "id": 1024,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\":  39.1034, \"longitude\":-94.5809}",
+        "coordinates": "{\"lattitude\": 39.1034, \"longitude\":-94.5809}",
         "description": " ",
         "imagename": " "
     },
@@ -320,7 +320,7 @@
         "id": 1025,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0821,  \"longitude\":-94.5967}",
+        "coordinates": "{\"lattitude\": 39.0821, \"longitude\":-94.5967}",
         "description": " ",
         "imagename": " "
     },
@@ -333,7 +333,7 @@
         "id": 1026,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 38.9152,  \"longitude\":-94.6393}",
+        "coordinates": "{\"lattitude\": 38.9152, \"longitude\":-94.6393}",
         "description": " ",
         "imagename": " "
     },
@@ -346,7 +346,7 @@
         "id": 1027,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.1101,  \"longitude\":-94.5818}",
+        "coordinates": "{\"lattitude\": 39.1101, \"longitude\":-94.5818}",
         "description": " ",
         "imagename": " "
     },
@@ -359,7 +359,7 @@
         "id": 1028,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0909,  \"longitude\":-94.5800}",
+        "coordinates": "{\"lattitude\": 39.0909, \"longitude\":-94.5800}",
         "description": " ",
         "imagename": " "
     },
@@ -372,7 +372,7 @@
         "id": 1029,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 38.9848,  \"longitude\":--94.6704}",
+        "coordinates": "{\"lattitude\": 38.9848, \"longitude\":--94.6704}",
         "description": " ",
         "imagename": " "
     },
@@ -385,7 +385,7 @@
         "id": 1030,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 38.8777,  \"longitude\":-94.7033}",
+        "coordinates": "{\"lattitude\": 38.8777, \"longitude\":-94.7033}",
         "description": " ",
         "imagename": " "
     },
@@ -398,7 +398,7 @@
         "id": 1031,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 38.7978,  \"longitude\":-94.6910}",
+        "coordinates": "{\"lattitude\": 38.7978, \"longitude\":-94.6910}",
         "description": " ",
         "imagename": " "
     },
@@ -411,7 +411,7 @@
         "id": 1032,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 38.9953,  \"longitude\":-94.5319}",
+        "coordinates": "{\"lattitude\": 38.9953, \"longitude\":-94.5319}",
         "description": " ",
         "imagename": " "
     },
@@ -424,7 +424,7 @@
         "id": 1033,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.9785,  \"longitude\":-95.2994}",
+        "coordinates": "{\"lattitude\": 39.9785, \"longitude\":-95.2994}",
         "description": " ",
         "imagename": " "
     },
@@ -437,7 +437,7 @@
         "id": 1034,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.9738,  \"longitude\":-95.2951}",
+        "coordinates": "{\"lattitude\": 39.9738, \"longitude\":-95.2951}",
         "description": " ",
         "imagename": " "
     },
@@ -450,7 +450,7 @@
         "id": 1035,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\":37.2892,  \"longitude\":-95.91165}",
+        "coordinates": "{\"lattitude\":37.2892, \"longitude\":-95.91165}",
         "description": " ",
         "imagename": " "
     },
@@ -463,7 +463,7 @@
         "id": 1036,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.1267,  \"longitude\":-94.8260}",
+        "coordinates": "{\"lattitude\": 39.1267, \"longitude\":-94.8260}",
         "description": " ",
         "imagename": " "
     },
@@ -476,7 +476,7 @@
         "id": 1037,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 38.9531,  \"longitude\":-94.7196}",
+        "coordinates": "{\"lattitude\": 38.9531, \"longitude\":-94.7196}",
         "description": " ",
         "imagename": " "
     },
@@ -489,7 +489,7 @@
         "id": 1038,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0420,  \"longitude\":-94.5926}",
+        "coordinates": "{\"lattitude\": 39.0420, \"longitude\":-94.5926}",
         "description": " ",
         "imagename": " "
     },
@@ -502,7 +502,7 @@
         "id": 1039,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0810,  \"longitude\":-94.5816}",
+        "coordinates": "{\"lattitude\": 39.0810, \"longitude\":-94.5816}",
         "description": " ",
         "imagename": " "
     },
@@ -515,7 +515,7 @@
         "id": 1040,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0941,  \"longitude\":-94.5876}",
+        "coordinates": "{\"lattitude\": 39.0941, \"longitude\":-94.5876}",
         "description": " ",
         "imagename": " "
     },
@@ -528,7 +528,7 @@
         "id": 1041,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0975,  \"longitude\":-94.5802}",
+        "coordinates": "{\"lattitude\": 39.0975, \"longitude\":-94.5802}",
         "description": " ",
         "imagename": " "
     },
@@ -541,7 +541,7 @@
         "id": 1042,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0075,  \"longitude\":-94.5328}",
+        "coordinates": "{\"lattitude\": 39.0075, \"longitude\":-94.5328}",
         "description": " ",
         "imagename": " "
     },
@@ -554,7 +554,7 @@
         "id": 1043,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0792,  \"longitude\":-95.6018}",
+        "coordinates": "{\"lattitude\": 39.0792, \"longitude\":-95.6018}",
         "description": " ",
         "imagename": " "
     },
@@ -567,7 +567,7 @@
         "id": 1044,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.2026,  \"longitude\":-96.3054}",
+        "coordinates": "{\"lattitude\": 39.2026, \"longitude\":-96.3054}",
         "description": " ",
         "imagename": " "
     },
@@ -580,7 +580,7 @@
         "id": 1045,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.2026,  \"longitude\":-96.3054}",
+        "coordinates": "{\"lattitude\": 39.2026, \"longitude\":-96.3054}",
         "description": " ",
         "imagename": " "
     },
@@ -593,7 +593,7 @@
         "id": 1046,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.3508,  \"longitude\":-101.7102}",
+        "coordinates": "{\"lattitude\": 39.3508, \"longitude\":-101.7102}",
         "description": " ",
         "imagename": " "
     },
@@ -606,7 +606,7 @@
         "id": 1047,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 37.6034,  \"longitude\":-99.2944}",
+        "coordinates": "{\"lattitude\": 37.6034, \"longitude\":-99.2944}",
         "description": " ",
         "imagename": " "
     },
@@ -619,7 +619,7 @@
         "id": 1048,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 45.0963,  \"longitude\":-94.4103}",
+        "coordinates": "{\"lattitude\": 45.0963, \"longitude\":-94.4103}",
         "description": " ",
         "imagename": " "
     },
@@ -632,7 +632,7 @@
         "id": 1049,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 38.8242,  \"longitude\":-98.4727}",
+        "coordinates": "{\"lattitude\": 38.8242, \"longitude\":-98.4727}",
         "description": " ",
         "imagename": " "
     }
