@@ -50,11 +50,7 @@ struct LandmarkList: View {
             List {
                 TextField("Search", text: $search)
                 HStack {
-                    //
-                    //Toggle(isOn: $showFavoritesOnly) {
-                    //    Text("Favorites")
-                    //}
-                    //.toggleStyle(.button)
+                    Text("Filter:")
                     Menu("Category") {
                         ForEach(Landmark.Category.allCases, content: { cat in
                             Button(action: {
