@@ -19,10 +19,52 @@ struct Landmark: Hashable, Codable, Identifiable {
     var isFeatured: Bool
 
     var category: Category
-    enum Category: String, CaseIterable, Codable {
-        case lakes = "Lakes"
-        case rivers = "Rivers"
-        case mountains = "Mountains"
+    enum Category: String, CaseIterable, Codable, Identifiable {
+        case Activities = "Activities"
+        case Sports = "Sports"
+        case Museum = "Museum"
+        case Food = "Food"
+        case Shopping = "Shopping"
+        case Performance = "Performance"
+        case Attractions = "Attractions"
+
+        
+        var id: Self {self}
+    }
+    
+    private var characteristic: Characteristic
+    enum Characteristic: String, CaseIterable, Codable, Identifiable {
+        case Rides = "Rides"
+        case Water = "Water"
+        case Animals = "Animals"
+        case Amusement = "Amusement"
+        case Mystery = "Mystery"
+        case Flying = "Flying"
+        case Racing = "Racing"
+        case Soccer = "Soccer"
+        case Football = "Football"
+        case Baseball = "Baseball"
+        case Basketball = "Basketball"
+        case Golf = "Golf"
+        case Music = "Music"
+        case History = "History"
+        case Art = "Art"
+        case Science = "Science"
+        case Money = "Money"
+        case Beer = "Beer"
+        case Barbecue = "Barbecue"
+        case Market = "Market"
+        case Chocolate = "Chocolate"
+        case Garden = "Garden"
+        case Indoors = "Indoors"
+        case Outdoors = "Outdoors"
+        case Entertainment = "Entertainment"
+        case Theater = "Theater"
+        case Trucks = "Trucks"
+        case Big_Things = "Big Things"
+
+        
+        var id: Self {self}
     }
 
     private var imageName: String
