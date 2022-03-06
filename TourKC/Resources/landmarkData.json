@@ -272,7 +272,7 @@
         "imageName": " "
     },
     {
-        "name": "WW1 Museum ",
+        "name": "WW1 Museum",
         "category": "Museum",
         "characteristic": "History",
         "city": "Kansas City",
@@ -288,7 +288,7 @@
         "imageName": " "
     },
     {
-        "name": "Nelson Atkins Museum ",
+        "name": "Nelson Atkins Museum",
         "category": "Museum",
         "characteristic": "Art",
         "city": "Kansas City",
@@ -403,7 +403,7 @@
         "name": "Joes Barbacue",
         "category": "Food",
         "characteristic": "Barbecue",
-        "city": "Leawood ",
+        "city": "Leawood",
         "state": "Kansas",
         "id": 1026,
         "isFeatured": false,
