@@ -1,206 +1,663 @@
 [
     {
-        "name": "Turtle Rock",
-        "category": "Sports",
-        "characteristic": "Beer",
-        "city": "Twentynine Palms",
-        "state": "California",
+        "name": "Worlds of Fun",
+        "category": "Activities",
+        "characteristic": "Rides",
+        "city": "Kansas City",
+        "state": "Missouri",
         "id": 1001,
-        "isFeatured": true,
-        "isFavorite": true,
-        "park": "Joshua Tree National Park",
+        "isfeatured": false,
+        "isfavorite": false,
         "coordinates": {
-            "longitude": -116.166868,
-            "latitude": 34.011286
-        },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "turtlerock"
+            "lattitude": 39.1766,
+            "longitude": -94.4862
+        }
     },
     {
-        "name": "Silver Salmon Creek",
-        "category": "Sports",
-        "characteristic": "Beer",
-        "city": "Port Alsworth",
-        "state": "Alaska",
+        "name": "Oceans of Fun",
+        "category": "Activites",
+        "characteristic": "Water",
+        "city": "Kansas City",
+        "state": "Missouri",
         "id": 1002,
-        "isFeatured": false,
-        "isFavorite": false,
-        "park": "Lake Clark National Park and Preserve",
+        "isfeatured": false,
+        "isfavorite": false,
         "coordinates": {
-            "longitude": -152.665167,
-            "latitude": 59.980167
-        },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "silversalmoncreek"
+            "lattitude": 39.1766,
+            "longitude": -94.4862
+        }
     },
     {
-        "name": "Chilkoot Trail",
-        "category": "Sports",
-        "characteristic": "Beer",
-        "city": "Skagway",
-        "state": "Alaska",
+        "name": "Kansas City Zoo",
+        "category": "Activites",
+        "characteristic": "Animals",
+        "city": "Kansas City",
+        "state": "Missouri",
         "id": 1003,
-        "isFeatured": false,
-        "isFavorite": true,
-        "park": "Klondike Gold Rush National Historical Park",
+        "isfeatured": false,
+        "isfavorite": false,
         "coordinates": {
-            "longitude": -135.334571,
-            "latitude": 59.560551
-        },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "chilkoottrail"
+            "lattitude": 39.0069,
+            "longitude": -94.5292
+        }
     },
     {
-        "name": "St. Mary Lake",
-        "category": "Sports",
-        "characteristic": "Beer",
-        "city": "Browning",
-        "state": "Montana",
+        "name": "Topeka Zoo",
+        "category": "Activities",
+        "characteristic": "Animals",
+        "city": "Topeka",
+        "state": "Kansas",
         "id": 1004,
-        "isFeatured": true,
-        "isFavorite": true,
-        "park": "Glacier National Park",
+        "isfeatured": false,
+        "isfavorite": false,
         "coordinates": {
-            "longitude": -113.536248,
-            "latitude": 48.69423
-        },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "stmarylake"
+            "lattitude": 39.0561,
+            "longitude": -95.7269
+        }
     },
     {
-        "name": "Twin Lake",
-        "category": "Sports",
-        "characteristic": "Beer",
-        "city": "Twin Lakes",
-        "state": "Alaska",
+        "name": "Lego Land",
+        "category": "Activites",
+        "characteristic": "Amusement",
+        "city": "Kansas City",
+        "state": "Missouri",
         "id": 1005,
-        "isFeatured": false,
-        "isFavorite": false,
-        "park": "Lake Clark National Park and Preserve",
+        "isfeatured": false,
+        "isfavorite": false,
         "coordinates": {
-            "longitude": -153.849883,
-            "latitude": 60.641684
-        },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "twinlake"
+            "lattitude": 39.0821,
+            "longitude": -94.5813
+        }
     },
     {
-        "name": "Lake McDonald",
-        "category": "Sports",
-        "characteristic": "Beer",
-        "city": "West Glacier",
-        "state": "Montana",
+        "name": "BreakoutKC",
+        "category": "Activities",
+        "characteristic": "Mystery",
+        "city": "Kansas City",
+        "state": "Missouri",
         "id": 1006,
-        "isFeatured": false,
-        "isFavorite": false,
-        "park": "Glacier National Park",
+        "isfeatured": false,
+        "isfavorite": false,
         "coordinates": {
-            "longitude": -113.934831,
-            "latitude": 48.56002
-        },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "lakemcdonald"
+            "lattitude": 39.0821,
+            "longitude": -94.5813
+        }
     },
     {
-        "name": "Charley Rivers",
-        "category": "Sports",
-        "characteristic": "Beer",
-        "city": "Eaking",
-        "state": "Alaska",
+        "name": "Sea Life Kansas City",
+        "category": "Activities",
+        "characteristic": "Water",
+        "city": "Kansas City",
+        "state": "Missouri",
         "id": 1007,
-        "isFeatured": true,
-        "isFavorite": false,
-        "park": "Charley Rivers National Preserve",
+        "isfeatured": false,
+        "isfavorite": false,
         "coordinates": {
-            "longitude": -143.122586,
-            "latitude": 65.350021
-        },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "charleyrivers"
+            "lattitude":39.10965,
+            "longitude": -94.58548
+        }
     },
     {
-        "name": "Icy Bay",
-        "category": "Sports",
-        "characteristic": "Beer",
-        "city": "Icy Bay",
-        "state": "Alaska",
+        "name": "Sea World",
+        "category": "Activites",
+        "characteristic": "Water",
+        "city": "Kansas City",
+        "state": "Missouri",
         "id": 1008,
-        "isFeatured": false,
-        "isFavorite": false,
-        "park": "Wrangell-St. Elias National Park and Preserve",
+        "isfeatured": false,
+        "isfavorite": false,
         "coordinates": {
-            "longitude": -141.518167,
-            "latitude": 60.089917
-        },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "icybay"
+            "lattitude": 39.080995,
+            "longitude":- 94.581442
+        }
     },
     {
-        "name": "Rainbow Lake",
-        "category": "Sports",
-        "characteristic": "Beer",
-        "city": "Willow",
-        "state": "Alaska",
+        "name": "IFly",
+        "category": "Activites",
+        "characteristic": "Flying",
+        "city": "Overland Park",
+        "state": "Kansas",
         "id": 1009,
-        "isFeatured": false,
-        "isFavorite": false,
-        "park": "State Recreation Area",
+        "isfeatured": false,
+        "isfavorite": false,
         "coordinates": {
-            "longitude": -150.086103,
-            "latitude": 61.694334
-        },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "rainbowlake"
+            "lattitude": 38.9303,
+            "longitude": -94.6663
+        }
     },
     {
-        "name": "Hidden Lake",
+        "name": "Kansas City Speedway",
         "category": "Sports",
-        "characteristic": "Beer",
-        "city": "Newhalem",
-        "state": "Washington",
+        "characteristic": "Racing",
+        "city": "Kansas City",
+        "state": "Missouri",
         "id": 1010,
-        "isFeatured": false,
-        "isFavorite": false,
-        "park": "North Cascades National Park",
+        "isfeatured": false,
+        "isfavorite": false,
         "coordinates": {
-            "longitude": -121.17799,
-            "latitude": 48.495442
-        },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "hiddenlake"
+            "lattitude": 39.1117,
+            "longitude": -94.8276
+        }
     },
     {
-        "name": "Chincoteague",
+        "name": "Sporting KC/ Children's Mercy Park",
         "category": "Sports",
-        "characteristic": "Beer",
-        "city": "Chincoteague",
-        "state": "Virginia",
+        "characteristic": "Soccer",
+        "city": "Kansas City",
+        "state": "Missouri",
         "id": 1011,
-        "isFeatured": false,
-        "isFavorite": false,
-        "park": "Chincoteague National Wildlife Refuge",
+        "isfeatured": false,
+        "isfavorite": false,
         "coordinates": {
-            "longitude": -75.383212,
-            "latitude": 37.91531
-        },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "chincoteague"
+            "lattitude": 39.1216,
+            "longitude": -94.8232
+        }
     },
     {
-        "name": "Lake Umbagog",
+        "name": "Chiefs/Arrowhead Staduim",
         "category": "Sports",
-        "characteristic": "Beer",
-        "city": "Errol",
-        "state": "New Hampshire",
+        "characteristic": "Football",
+        "city": "Kansas City",
+        "state": "Missouri",
         "id": 1012,
-        "isFeatured": false,
-        "isFavorite": false,
-        "park": "Umbagog National Wildlife Refuge",
+        "isfeatured": false,
+        "isfavorite": false,
         "coordinates": {
-            "longitude": -71.056816,
-            "latitude": 44.747408
-        },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+            "lattitude": 39.0489,
+            "longitude": -94.4839
+        }
+    },
+    {
+        "name": "Royals/Kauffman Stadium",
+        "category": "Sports",
+        "characteristic": "Baseball",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "id": 1013,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 39.0517,
+            "longitude": -94.4803
+        }
+    },
+    {
+        "name": "Negro Baseball Hall of Fame",
+        "category": "Sports",
+        "characteristic": "Baseball",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "id": 1014,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 39.0914,
+            "longitude": -94.5627
+        }
+    },
+    {
+        "name": "Allen Fieldhouse",
+        "category": "Sports",
+        "characteristic": "Basketball",
+        "city": "Lawrence",
+        "state": "Kansas",
+        "id": 1015,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 38.9542,
+            "longitude": -95.2528
+        }
+    },
+    {
+        "name": "Top Golf",
+        "category": "Sports",
+        "characteristic": "Golf",
+        "city": "Overland Park",
+        "state": "Kansas",
+        "id": 1016,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 38.9365,
+            "longitude": -94.6482
+        }
+    },
+    {
+        "name": "American Jazz Museum",
+        "category": "Museum",
+        "characteristic": "Music",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "id": 1017,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 38.9365,
+            "longitude": -94.6482
+        }
+    },
+    {
+        "name": "WW1 Museum ",
+        "category": "Museum",
+        "characteristic": "History",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "id": 1018,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 39.0807,
+            "longitude": -94.5861
+        }
+    },
+    {
+        "name": "Nelson Atkins Museum ",
+        "category": "Museum",
+        "characteristic": "Art",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "id": 1019,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 39.0450,
+            "longitude": -94.5809
+        }
+    },
+    {
+        "name": "Union Station",
+        "category": "Museum",
+        "characteristic": "Science",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "id": 1020,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 39.0853,
+            "longitude": -94.5856
+        }
+    },
+    {
+        "name": "Science City",
+        "category": "Museum",
+        "characteristic": "Science",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "id": 1021,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 39.0853,
+            "longitude": -94.5856
+        }
+    },
+    {
+        "name": "Steamboat Arabia",
+        "category": "Museum",
+        "characteristic": "History",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "id": 1022,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 39.1095,
+            "longitude": -94.5814
+        }
+    },
+    {
+        "name": "Museum at Prariefire",
+        "category": "Museum",
+        "characteristic": "History",
+        "city": "Overland Park",
+        "state": "Kansas",
+        "id": 1023,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 38.8819,
+            "longitude": -94.6521
+        }
+    },
+    {
+        "name": "Money Museum",
+        "category": "Museum ",
+        "characteristic": "Money",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "id": 1024,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude":  39.1034,
+            "longitude":-94.5809
+        }
+    },
+    {
+        "name": "Boulevard Brewing Co",
+        "category": "Food",
+        "characteristic": "Beer",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "id": 1025,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 39.0821,  "longitude":-94.5967
+        }
+    },
+    {
+        "name": "Joes Barbacue",
+        "category": "Food",
+        "characteristic": "Barbecue",
+        "city": "Leawood ",
+        "state": "Kansas",
+        "id": 1026,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 38.9152,  "longitude":-94.6393
+        }
+    },
+    {
+        "name": "City Market",
+        "category": "Food",
+        "characteristic": "Market",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "id": 1027,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 39.1101,  "longitude":-94.5818
+        }
+    },
+    {
+        "name": "Christopher Elbow Chocolates",
+        "category": "Food",
+        "characteristic": "Chocolate",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "id": 1028,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 39.0909,  "longitude":-94.5800
+        }
+    },
+    {
+        "name": "Overland Park Farmers Market",
+        "category": "Food",
+        "characteristic": "Market",
+        "city": "Overland Park",
+        "state": "Kansas",
+        "id": 1029,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 38.9848,  "longitude":--94.6704
+        }
+    },
+    {
+        "name": "Deanna Rose Farmstead",
+        "category": "Nature",
+        "characteristic": "Animals",
+        "city": "Overland Park",
+        "state": "Kansas",
+        "id": 1030,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 38.8777,  "longitude":-94.7033
+        }
+    },
+    {
+        "name": "Overland Park Arboretum & Botanical Gardens",
+        "category": "Nature",
+        "characteristic": "Garden",
+        "city": "Overland Park",
+        "state": "Kansas",
+        "id": 1031,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 38.7978,  "longitude":-94.6910
+        }
+    },
+    {
+        "name": "Lakeside Nature Center",
+        "category": "Nature",
+        "characteristic": "Garden",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "id": 1032,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 38.9953,  "longitude":-94.5319
+        }
+    },
+    {
+        "name": "Rock City",
+        "category": "Nature",
+        "characteristic": "Rocks",
+        "city": "Minneapolis",
+        "state": "Kansas",
+        "id": 1033,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 39.9785,  "longitude":-95.2994
+        }
+    },
+    {
+        "name": "4-State Lookout (Kansas, Iowa, Nebraska, Missouri)",
+        "category": "Nature",
+        "characteristic": "History",
+        "city": "White Cloud",
+        "state": "Kansas",
+        "id": 1034,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 39.9738,  "longitude":-95.2951
+        }
+    },
+    {
+        "name": "Elk River Hiking Trail",
+        "category": "Nature",
+        "characteristic": "History",
+        "city": "Elk City",
+        "state": "Kansas",
+        "id": 1035,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude":37.2892,  "longitude":-95.91165
+        }
+    },
+    {
+        "name": "Legends Mall",
+        "category": "Shopping",
+        "characteristic": "Outdoors",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "id": 1036,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 39.1267,  "longitude":-94.8260
+        }
+    },
+    {
+        "name": "Oak Park Mall",
+        "category": "Shopping",
+        "characteristic": "Indoors",
+        "city": "Overland Park",
+        "state": "Kansas",
+        "id": 1037,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 38.9531,  "longitude":-94.7196
+        }
+    },
+    {
+        "name": "Country Club Plaza",
+        "category": "Shopping",
+        "characteristic": "Outdoors",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "id": 1038,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 39.0420,  "longitude":-94.5926
+        }
+    },
+    {
+        "name": "Crown Center",
+        "category": "Shopping",
+        "characteristic": "Entertainment",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "id": 1039,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 39.0810,  "longitude":-94.5816
+        }
+    },
+    {
+        "name": "Kauffman Center",
+        "category": "Performance",
+        "characteristic": "Music",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "id": 1040,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 39.0941,  "longitude":-94.5876
+        }
+    },
+    {
+        "name": "T-Mobile Center",
+        "category": "Performance",
+        "characteristic": "Music",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "id": 1041,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 39.0975,  "longitude":-94.5802
+        }
+    },
+    {
+        "name": "Starlight Theater",
+        "category": "Performance",
+        "characteristic": "Theater",
+        "city": "Kansas City",
+        "state": "Missouri",
+        "id": 1042,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 39.0075,  "longitude":-94.5328
+        }
+    },
+    {
+        "name": "TruckHenge",
+        "category": "Attractions",
+        "characteristic": "Trucks",
+        "city": "Topeka",
+        "state": "Kansas",
+        "id": 1043,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 39.0792,  "longitude":-95.6018
+        }
+    },
+    {
+        "name": "Oz Museum",
+        "category": "Attractions",
+        "characteristic": "Entertainment",
+        "city": "Wamego",
+        "state": "Kansas",
+        "id": 1044,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 39.2026,  "longitude":-96.3054
+        }
+    },
+    {
+        "name": "World's Largest Collections of Smallest Versions of Largest Things",
+        "category": "Attractions",
+        "characteristic": "Small_Things",
+        "city": "Lucas",
+        "state": "Kansas",
+        "id": 1045,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 39.2026,  "longitude":-96.3054
+        }
+    },
+    {
+        "name": "Giant Van Gogh Painting",
+        "category": "Attractions",
+        "characteristic": "Big_Things",
+        "city": "Goodland",
+        "state": "Kansas",
+        "id": 1046,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 39.3508,  "longitude":-101.7102
+        }
+    },
+    {
+        "name": "The Big Well",
+        "category": "Attractions",
+        "characteristic": "Big_Things",
+        "city": "Greensburg",
+        "state": "Kansas",
+        "id": 1047,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 37.6034,  "longitude":-99.2944
+        }
+    },
+    {
+        "name": "World's Largest Ball of Twine",
+        "category": "Attractions",
+        "characteristic": "Big_Things",
+        "city": "Cawker City",
+        "state": "Kansas",
+        "id": 1048,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 45.0963,  "longitude":-94.4103
+        }
+    },
+    {
+        "name": "World's Largest Czech Egg",
+        "category": "Attractions",
+        "characteristic": "Big_Things",
+        "city": "Wilson",
+        "state": "Kansas",
+        "id": 1049,
+        "isfeatured": false,
+        "isfavorite": false,
+        "coordinates": {
+            "lattitude": 38.8242,  "longitude":-98.4727
+        }
     }
 ]
