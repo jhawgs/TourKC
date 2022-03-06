@@ -40,6 +40,9 @@ struct LandmarkList: View {
         .filter { landmark in
             (filteredCategory == nil || landmark.category == filteredCategory)
         }
+        .filter { landmark in
+            (filteredCharacteristic == nil || landmark.characteristic == filteredCharacteristic)
+        }
     }
 
     var body: some View {
@@ -56,14 +59,14 @@ struct LandmarkList: View {
                         ForEach(Landmark.Category.allCases, content: { cat in
                             Button(action: {
                                 set_cat(cat)
-                            }, label: {Text(cat.rawValue)})
+                            }, label: {Label(cat.rawValue, systemImage: cat == filteredCategory ? "checkmark" : "none")})
                         })
                     }
                     Menu("Characteristic") {
                         ForEach(Landmark.Characteristic.allCases, content: { cat in
                             Button(action: {
                                 set_char(cat)
-                            }, label: {Text(cat.rawValue)})
+                            }, label: {Label(cat.rawValue, systemImage: cat == filteredCharacteristic ? "checkmark" : "none")})
                         })
                     }
                 }
