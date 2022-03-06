@@ -62,6 +62,8 @@ struct Landmark: Hashable, Codable, Identifiable {
         case Theater = "Theater"
         case Trucks = "Trucks"
         case Big_Things = "Big Things"
+        case Small_Things = "Small Things"
+        case Rocks = "Rocks"
 
         
         var id: Self {self}
