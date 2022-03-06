@@ -46,6 +46,7 @@
 		D8863A9627D3FED80021422C /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8863A9227D3FED80021422C /* Landmark.swift */; };
 		D8863A9A27D3FEE00021422C /* hikeData.json in Resources */ = {isa = PBXBuildFile; fileRef = D8863A9827D3FEE00021422C /* hikeData.json */; };
 		D8863A9B27D3FEE00021422C /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = D8863A9927D3FEE00021422C /* landmarkData.json */; };
+		D8863A9F27D45D3C0021422C /* data-parse.py in Resources */ = {isa = PBXBuildFile; fileRef = D8863A9E27D45D3C0021422C /* data-parse.py */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -108,6 +109,7 @@
 		D8863A9227D3FED80021422C /* Landmark.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		D8863A9827D3FEE00021422C /* hikeData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hikeData.json; sourceTree = "<group>"; };
 		D8863A9927D3FEE00021422C /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
+		D8863A9E27D45D3C0021422C /* data-parse.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "data-parse.py"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -299,6 +301,7 @@
 			children = (
 				D8863A9827D3FEE00021422C /* hikeData.json */,
 				D8863A9927D3FEE00021422C /* landmarkData.json */,
+				D8863A9E27D45D3C0021422C /* data-parse.py */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -409,6 +412,7 @@
 			files = (
 				D8863A2127D3F7780021422C /* Preview Assets.xcassets in Resources */,
 				D8863A9B27D3FEE00021422C /* landmarkData.json in Resources */,
+				D8863A9F27D45D3C0021422C /* data-parse.py in Resources */,
 				D8863A9A27D3FEE00021422C /* hikeData.json in Resources */,
 				D8863A1E27D3F7780021422C /* Assets.xcassets in Resources */,
 			);
