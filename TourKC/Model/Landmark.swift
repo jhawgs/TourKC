@@ -32,7 +32,7 @@ struct Landmark: Hashable, Codable, Identifiable {
         var id: Self {self}
     }
     
-    private var characteristic: Characteristic
+    var characteristic: Characteristic
     enum Characteristic: String, CaseIterable, Codable, Identifiable {
         case Rides = "Rides"
         case Water = "Water"
