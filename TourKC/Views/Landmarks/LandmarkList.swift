@@ -50,20 +50,32 @@ struct LandmarkList: View {
             List {
                 TextField("Search", text: $search)
                 HStack {
-                    Text("Filter:")
-                    Menu("Category") {
+                    //Text("Filter:")
+                    Menu {
                         ForEach(Landmark.Category.allCases, content: { cat in
                             Button(action: {
                                 set_cat(cat)
                             }, label: {Label(cat.rawValue, systemImage: cat == filteredCategory ? "checkmark" : "none")})
                         })
+                    } label: {
+                        Label("Category", systemImage: "chevron.down")
+                            .lineLimit(1)
+                            .font(.subheadline)
+                            .background()
+                            .cornerRadius(4)
                     }
-                    Menu("Characteristic") {
+                    Menu {
                         ForEach(Landmark.Characteristic.allCases, content: { cat in
                             Button(action: {
                                 set_char(cat)
                             }, label: {Label(cat.rawValue, systemImage: cat == filteredCharacteristic ? "checkmark" : "none")})
                         })
+                    } label: {
+                        Label("Characteristic", systemImage: "chevron.down")
+                            .lineLimit(1)
+                            .font(.subheadline)
+                            .background()
+                            .cornerRadius(4)
                     }
                 }
 
