@@ -17,7 +17,7 @@
     },
     {
         "name": "Oceans of Fun",
-        "category": "Activites",
+        "category": "Activities",
         "characteristic": "Water",
         "city": "Kansas City",
         "state": "Missouri",
@@ -33,7 +33,7 @@
     },
     {
         "name": "Kansas City Zoo",
-        "category": "Activites",
+        "category": "Activities",
         "characteristic": "Animals",
         "city": "Kansas City",
         "state": "Missouri",
@@ -65,7 +65,7 @@
     },
     {
         "name": "Lego Land",
-        "category": "Activites",
+        "category": "Activities",
         "characteristic": "Amusement",
         "city": "Kansas City",
         "state": "Missouri",
@@ -113,7 +113,7 @@
     },
     {
         "name": "Sea World",
-        "category": "Activites",
+        "category": "Activities",
         "characteristic": "Water",
         "city": "Kansas City",
         "state": "Missouri",
@@ -129,7 +129,7 @@
     },
     {
         "name": "IFly",
-        "category": "Activites",
+        "category": "Activities",
         "characteristic": "Flying",
         "city": "Overland Park",
         "state": "Kansas",
@@ -265,14 +265,14 @@
         "isFeatured": false,
         "isFavorite": false,
         "coordinates": {
-            "latitude": 38.9365,
-            "longitude": -94.6482
+            "lattitude": 39.0916,
+            "longitude": -94.5627
         },
         "description": " ",
         "imageName": " "
     },
     {
-        "name": "WW1 Museum ",
+        "name": "WW1 Museum",
         "category": "Museum",
         "characteristic": "History",
         "city": "Kansas City",
@@ -288,7 +288,7 @@
         "imageName": " "
     },
     {
-        "name": "Nelson Atkins Museum ",
+        "name": "Nelson Atkins Museum",
         "category": "Museum",
         "characteristic": "Art",
         "city": "Kansas City",
@@ -403,7 +403,7 @@
         "name": "Joes Barbacue",
         "category": "Food",
         "characteristic": "Barbecue",
-        "city": "Leawood ",
+        "city": "Leawood",
         "state": "Kansas",
         "id": 1026,
         "isFeatured": false,
