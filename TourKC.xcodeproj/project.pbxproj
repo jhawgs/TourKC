@@ -47,6 +47,8 @@
 		D8863A9A27D3FEE00021422C /* hikeData.json in Resources */ = {isa = PBXBuildFile; fileRef = D8863A9827D3FEE00021422C /* hikeData.json */; };
 		D8863A9B27D3FEE00021422C /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = D8863A9927D3FEE00021422C /* landmarkData.json */; };
 		D8863A9F27D45D3C0021422C /* data-parse.py in Resources */ = {isa = PBXBuildFile; fileRef = D8863A9E27D45D3C0021422C /* data-parse.py */; };
+		D8863AA127D577B50021422C /* raw.json in Resources */ = {isa = PBXBuildFile; fileRef = D8863AA027D577B50021422C /* raw.json */; };
+		D8863AA327D577DC0021422C /* clean.json in Resources */ = {isa = PBXBuildFile; fileRef = D8863AA227D577DC0021422C /* clean.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -110,6 +112,8 @@
 		D8863A9827D3FEE00021422C /* hikeData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hikeData.json; sourceTree = "<group>"; };
 		D8863A9927D3FEE00021422C /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 		D8863A9E27D45D3C0021422C /* data-parse.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "data-parse.py"; sourceTree = "<group>"; };
+		D8863AA027D577B50021422C /* raw.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = raw.json; sourceTree = "<group>"; };
+		D8863AA227D577DC0021422C /* clean.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = clean.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -299,6 +303,8 @@
 		D8863A9727D3FEE00021422C /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				D8863AA027D577B50021422C /* raw.json */,
+				D8863AA227D577DC0021422C /* clean.json */,
 				D8863A9827D3FEE00021422C /* hikeData.json */,
 				D8863A9927D3FEE00021422C /* landmarkData.json */,
 				D8863A9E27D45D3C0021422C /* data-parse.py */,
@@ -412,6 +418,8 @@
 			files = (
 				D8863A2127D3F7780021422C /* Preview Assets.xcassets in Resources */,
 				D8863A9B27D3FEE00021422C /* landmarkData.json in Resources */,
+				D8863AA127D577B50021422C /* raw.json in Resources */,
+				D8863AA327D577DC0021422C /* clean.json in Resources */,
 				D8863A9F27D45D3C0021422C /* data-parse.py in Resources */,
 				D8863A9A27D3FEE00021422C /* hikeData.json in Resources */,
 				D8863A1E27D3F7780021422C /* Assets.xcassets in Resources */,
