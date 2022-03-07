@@ -55,7 +55,7 @@ struct LandmarkList: View {
                         ForEach(Landmark.Category.allCases, content: { cat in
                             Button(action: {
                                 set_cat(cat)
-                            }, label: {Label(cat.rawValue, systemImage: cat == filteredCategory ? "checkmark" : "none")})
+                            }, label: {Label(cat.readable_string, systemImage: cat == filteredCategory ? "checkmark" : "none")})
                         })
                     } label: {
                         Label("Category", systemImage: "chevron.down")
@@ -68,7 +68,7 @@ struct LandmarkList: View {
                         ForEach(Landmark.Characteristic.allCases, content: { cat in
                             Button(action: {
                                 set_char(cat)
-                            }, label: {Label(cat.rawValue, systemImage: cat == filteredCharacteristic ? "checkmark" : "none")})
+                            }, label: {Label(cat.readable_string, systemImage: cat == filteredCharacteristic ? "checkmark" : "none")})
                         })
                     } label: {
                         Label("Characteristic", systemImage: "chevron.down")

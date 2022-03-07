@@ -26,7 +26,9 @@ struct Landmark: Hashable, Codable, Identifiable {
         case Shopping = "Shopping"
         case Performance = "Performance"
         case Attractions = "Attractions"
-
+        case Nature = "Nature"
+        
+        var readable_string: String {self.rawValue.replacingOccurrences(of: "_", with: " ")}
         
         var id: Self {self}
     }
@@ -60,10 +62,11 @@ struct Landmark: Hashable, Codable, Identifiable {
         case Entertainment = "Entertainment"
         case Theater = "Theater"
         case Trucks = "Trucks"
-        case Big_Things = "Big Things"
-        case Small_Things = "Small Things"
+        case Big_Things = "Big_Things"
+        case Small_Things = "Small_Things"
         case Rocks = "Rocks"
 
+        var readable_string: String {self.rawValue.replacingOccurrences(of: "_", with: " ")}
         
         var id: Self {self}
     }

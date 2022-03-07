@@ -86,7 +86,7 @@
         "id": 1007,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"latitude\":39.10965, \"longitude\": -94.58548}",
+        "coordinates": "{\"latitude\": 39.10965, \"longitude\": -94.58548}",
         "description": " ",
         "imagename": " "
     },
@@ -216,7 +216,7 @@
         "id": 1017,
         "isfeatured": false,
         "isfavorite": false,
-        "coordinates": "{\"lattitude\": 39.0916, \"longitude\": -94.5627}",
+        "coordinates": "{\"latitude\": 39.0916, \"longitude\": -94.5627}",
         "description": " ",
         "imagename": " "
     },
@@ -300,7 +300,7 @@
     },
     {
         "name": "Money Museum",
-        "category": "Museum ",
+        "category": "Museum",
         "characteristic": "Money",
         "city": "Kansas City",
         "state": "Missouri",

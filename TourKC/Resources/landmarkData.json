@@ -105,7 +105,7 @@
         "isFeatured": false,
         "isFavorite": false,
         "coordinates": {
-            "latitude":39.10965,
+            "latitude": 39.10965,
             "longitude": -94.58548
         },
         "description": " ",
@@ -265,7 +265,7 @@
         "isFeatured": false,
         "isFavorite": false,
         "coordinates": {
-            "lattitude": 39.0916,
+            "latitude": 39.0916,
             "longitude": -94.5627
         },
         "description": " ",
@@ -369,7 +369,7 @@
     },
     {
         "name": "Money Museum",
-        "category": "Museum ",
+        "category": "Museum",
         "characteristic": "Money",
         "city": "Kansas City",
         "state": "Missouri",
