@@ -182,7 +182,7 @@
         "city": "Kansas City",
         "state": "Missouri",
         "id": 1012,
-        "isFeatured": false,
+        "isFeatured": true,
         "isFavorite": false,
         "coordinates": {
             "latitude": 39.0489,
@@ -214,7 +214,7 @@
         "city": "Kansas City",
         "state": "Missouri",
         "id": 1014,
-        "isFeatured": false,
+        "isFeatured": true,
         "isFavorite": false,
         "coordinates": {
             "latitude": 39.0914,
@@ -230,7 +230,7 @@
         "city": "Lawrence",
         "state": "Kansas",
         "id": 1015,
-        "isFeatured": false,
+        "isFeatured": true,
         "isFavorite": false,
         "coordinates": {
             "latitude": 38.9542,
@@ -278,7 +278,7 @@
         "city": "Kansas City",
         "state": "Missouri",
         "id": 1018,
-        "isFeatured": false,
+        "isFeatured": true,
         "isFavorite": false,
         "coordinates": {
             "latitude": 39.0807,
