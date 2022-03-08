@@ -5,6 +5,8 @@ FBLA Coding and Programming App
 
 ***TourKC*** app can be installed on any **iOS** device by connecting the device to a **Mac** running **Xcode**. Clone this repository, and open it in **Xcode**. Select the destination device in the run menu (at the top of the window next to the run button, reading ***iPhone X*** by default), then click run. This will make a temporary installation of the app on the device. Occassionally, it will ask for a "Developer Team." This will require the installer to log in with their **Apple ID**.
 
+<!---
+
 ## Usage
 Upon first launch, the user may ... . On the *...* screen, ... . This brings the user to ... .
 
@@ -117,7 +119,7 @@ TourKC
 - [ ] **Icon and Graphics**: graphics are consistent with logo color scheme, and logo is shown on device home screen
 - [ ] **Social Media**: the app is connected to **Google Firebase**, makes use of a Social Media design, and integrates with other platforms as a gateway, and web version supports **Google** login
 - [ ] **Bugs**: no bugs have been observed, and future bugs can be reported through **GitHub** and email or **Google Form** in the app
-
+-->
 ## Licensing and Templates
 All 3rd party resources are used under perpetual or circumstantial licenses, and their conditions are all met.
 
