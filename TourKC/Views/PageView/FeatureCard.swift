@@ -11,12 +11,16 @@ struct FeatureCard: View {
     var landmark: Landmark
 
     var body: some View {
-        landmark.image
-            .resizable()
-            .aspectRatio(3 / 2, contentMode: .fit)
-            .overlay {
-                TextOverlay(landmark: landmark)
-            }
+        NavigationLink {
+            LandmarkDetail(landmark: landmark)
+        } label : {
+            landmark.image
+                .resizable()
+                .aspectRatio(3 / 2, contentMode: .fit)
+                .overlay {
+                    TextOverlay(landmark: landmark)
+                }
+        }
     }
 }
 
