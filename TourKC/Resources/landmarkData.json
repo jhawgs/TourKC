@@ -12,8 +12,8 @@
             "latitude": 39.1766,
             "longitude": -94.4862
         },
-        "description": " ",
-        "imageName": " "
+        "description": "Worlds of Fun is a amusement park that is fun for all ages. It had roller coasters, arcade games, and lots of great food!",
+        "imageName": "OceansOfFun"
     },
     {
         "name": "Oceans of Fun",
@@ -28,8 +28,8 @@
             "latitude": 39.1766,
             "longitude": -94.4862
         },
-        "description": " ",
-        "imageName": " "
+        "description": "Oceans of Fun is a super fun water park in Missouri. It features many attractions including water based rides, wave pools, and lavy rivers.",
+        "imageName": "WorldsOfFun"
     },
     {
         "name": "Kansas City Zoo",
@@ -44,8 +44,8 @@
             "latitude": 39.0069,
             "longitude": -94.5292
         },
-        "description": " ",
-        "imageName": " "
+        "description": "The Kansas City Zoo is a great place to take your family to see a variety of cool animals. Make sure you say hi to the Giraffes!",
+        "imageName": "KansasCityZoo"
     },
     {
         "name": "Topeka Zoo",
@@ -60,8 +60,8 @@
             "latitude": 39.0561,
             "longitude": -95.7269
         },
-        "description": " ",
-        "imageName": " "
+        "description": "The Topeka Zoo is a medium-sized Zoo in Topeka Kansas. It features many great animals and is good for people who want a less-crowded zoo.",
+        "imageName": "TopekaZoo"
     },
     {
         "name": "Lego Land",
@@ -76,8 +76,8 @@
             "latitude": 39.0821,
             "longitude": -94.5813
         },
-        "description": " ",
-        "imageName": " "
+        "description": "LegoLand is a Lego theme park. It features many attracions like a meticulouly built lego city, lego rides, a lego movie theater, and a station to build your own Lego contraptions! It is great place to take kids. ",
+        "imageName": "LegoLand"
     },
     {
         "name": "BreakoutKC",
@@ -92,8 +92,8 @@
             "latitude": 39.0821,
             "longitude": -94.5813
         },
-        "description": " ",
-        "imageName": " "
+        "description": "BreatoutKC has many mysterious escape rooms with varying difficulty. It is a great place to go for a good puzzle. ",
+        "imageName": "BreakoutKC"
     },
     {
         "name": "Sea Life Kansas City",
@@ -105,14 +105,14 @@
         "isFeatured": false,
         "isFavorite": false,
         "coordinates": {
-            "latitude": 39.10965,
-            "longitude": -94.58548
+            "latitude": 39.1097,
+            "longitude": -94.5854
         },
-        "description": " ",
-        "imageName": " "
+        "description": "Get transported to life underwater at Sea Life KC. Be ready to see cool aquatic animals that you have never even heard of!",
+        "imageName": "SeaLife"
     },
     {
-        "name": "Sea World",
+        "name": "Great Wolf Lodge",
         "category": "Activities",
         "characteristic": "Water",
         "city": "Kansas City",
@@ -121,11 +121,11 @@
         "isFeatured": false,
         "isFavorite": false,
         "coordinates": {
-            "latitude": 39.080995,
-            "longitude": -94.581442
+            "latitude": 39.1179,
+            "longitude": -94.8166
         },
-        "description": " ",
-        "imageName": " "
+        "description": "At Great Wolf Lodge you and your family can enjoy a world class waterpark, mini golf, and many other attractions. You can also stay overnight and have another day of fun!",
+        "imageName": "GreatWolfLodge"
     },
     {
         "name": "IFly",
@@ -141,7 +141,7 @@
             "longitude": -94.6663
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "Ifly"
     },
     {
         "name": "Kansas City Speedway",
@@ -157,10 +157,10 @@
             "longitude": -94.8276
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "KansasCitySpeedway"
     },
     {
-        "name": "Sporting KC/ Children's Mercy Park",
+        "name": "Sporting KC/Children's Mercy Park",
         "category": "Sports",
         "characteristic": "Soccer",
         "city": "Kansas City",
@@ -173,7 +173,7 @@
             "longitude": -94.8232
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "ChildrensMercyPark"
     },
     {
         "name": "Chiefs/Arrowhead Staduim",
@@ -182,14 +182,14 @@
         "city": "Kansas City",
         "state": "Missouri",
         "id": 1012,
-        "isFeatured": true,
+        "isFeatured": false,
         "isFavorite": false,
         "coordinates": {
             "latitude": 39.0489,
             "longitude": -94.4839
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "ArrowheadStadium"
     },
     {
         "name": "Royals/Kauffman Stadium",
@@ -205,7 +205,7 @@
             "longitude": -94.4803
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "KauffmanStadium"
     },
     {
         "name": "Negro Baseball Hall of Fame",
@@ -214,14 +214,14 @@
         "city": "Kansas City",
         "state": "Missouri",
         "id": 1014,
-        "isFeatured": true,
+        "isFeatured": false,
         "isFavorite": false,
         "coordinates": {
             "latitude": 39.0914,
             "longitude": -94.5627
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "NegroBaseballHallOfFame"
     },
     {
         "name": "Allen Fieldhouse",
@@ -230,14 +230,14 @@
         "city": "Lawrence",
         "state": "Kansas",
         "id": 1015,
-        "isFeatured": true,
+        "isFeatured": false,
         "isFavorite": false,
         "coordinates": {
             "latitude": 38.9542,
             "longitude": -95.2528
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "AllenFieldhouse"
     },
     {
         "name": "Top Golf",
@@ -253,7 +253,7 @@
             "longitude": -94.6482
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "TopGolf"
     },
     {
         "name": "American Jazz Museum",
@@ -269,7 +269,7 @@
             "longitude": -94.5627
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "AmericanJazzMuseum"
     },
     {
         "name": "WW1 Museum",
@@ -285,7 +285,7 @@
             "longitude": -94.5861
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "WW1Museum"
     },
     {
         "name": "Nelson Atkins Museum",
@@ -301,7 +301,7 @@
             "longitude": -94.5809
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "NelsonAtkinsMuseum"
     },
     {
         "name": "Union Station",
@@ -317,7 +317,7 @@
             "longitude": -94.5856
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "UnionStation"
     },
     {
         "name": "Science City",
@@ -333,7 +333,7 @@
             "longitude": -94.5856
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "ScienceCity"
     },
     {
         "name": "Steamboat Arabia",
@@ -349,10 +349,10 @@
             "longitude": -94.5814
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "SteamboatArabia"
     },
     {
-        "name": "Museum at Prariefire",
+        "name": "Museum at Prairiefire",
         "category": "Museum",
         "characteristic": "History",
         "city": "Overland Park",
@@ -365,7 +365,7 @@
             "longitude": -94.6521
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "MuseumAtPrairiefire"
     },
     {
         "name": "Money Museum",
@@ -381,7 +381,7 @@
             "longitude": -94.5809
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "MoneyMuseum"
     },
     {
         "name": "Boulevard Brewing Co",
@@ -397,23 +397,23 @@
             "longitude": -94.5967
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "BoulevardBrewingCo"
     },
     {
-        "name": "Joes Barbacue",
+        "name": "Joes Barbaque",
         "category": "Food",
         "characteristic": "Barbecue",
         "city": "Leawood",
         "state": "Kansas",
         "id": 1026,
-        "isFeatured": false,
+        "isFeatured": true,
         "isFavorite": false,
         "coordinates": {
             "latitude": 38.9152,
             "longitude": -94.6393
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "JoesBarbeque"
     },
     {
         "name": "City Market",
@@ -429,7 +429,7 @@
             "longitude": -94.5818
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "CityMarket"
     },
     {
         "name": "Christopher Elbow Chocolates",
@@ -445,7 +445,7 @@
             "longitude": -94.5800
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "ChristopherElbowChocolates"
     },
     {
         "name": "Overland Park Farmers Market",
@@ -461,7 +461,7 @@
             "longitude": -94.6704
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "OverlandParkFarmersMarket"
     },
     {
         "name": "Deanna Rose Farmstead",
@@ -477,7 +477,7 @@
             "longitude": -94.7033
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "DeannaRoseFarmstead"
     },
     {
         "name": "Overland Park Arboretum & Botanical Gardens",
@@ -493,7 +493,7 @@
             "longitude": -94.6910
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "OverlandParkArboretum"
     },
     {
         "name": "Lakeside Nature Center",
@@ -509,7 +509,7 @@
             "longitude": -94.5319
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "LakesideNatureCenter"
     },
     {
         "name": "Rock City",
@@ -525,7 +525,7 @@
             "longitude": -95.2994
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "RockCity"
     },
     {
         "name": "4-State Lookout (Kansas, Iowa, Nebraska, Missouri)",
@@ -541,7 +541,7 @@
             "longitude": -95.2951
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "4-StateLookout"
     },
     {
         "name": "Elk River Hiking Trail",
@@ -557,7 +557,7 @@
             "longitude": -95.91165
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "ElkRiverHikingTrail"
     },
     {
         "name": "Legends Mall",
@@ -573,7 +573,7 @@
             "longitude": -94.8260
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "LegendsMall"
     },
     {
         "name": "Oak Park Mall",
@@ -589,7 +589,7 @@
             "longitude": -94.7196
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "OakParkMall"
     },
     {
         "name": "Country Club Plaza",
@@ -605,7 +605,7 @@
             "longitude": -94.5926
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "CountryClubPlaza"
     },
     {
         "name": "Crown Center",
@@ -621,7 +621,7 @@
             "longitude": -94.5816
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "CrownCenter"
     },
     {
         "name": "Kauffman Center",
@@ -637,7 +637,7 @@
             "longitude": -94.5876
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "KauffmanCenter"
     },
     {
         "name": "T-Mobile Center",
@@ -653,7 +653,7 @@
             "longitude": -94.5802
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "T-MobileCenter"
     },
     {
         "name": "Starlight Theater",
@@ -669,7 +669,7 @@
             "longitude": -94.5328
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "StarlightTheater"
     },
     {
         "name": "TruckHenge",
@@ -678,14 +678,14 @@
         "city": "Topeka",
         "state": "Kansas",
         "id": 1043,
-        "isFeatured": false,
+        "isFeatured": true,
         "isFavorite": false,
         "coordinates": {
             "latitude": 39.0792,
             "longitude": -95.6018
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "TruckHenge"
     },
     {
         "name": "Oz Museum",
@@ -701,7 +701,7 @@
             "longitude": -96.3054
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "OzMuseum"
     },
     {
         "name": "World's Largest Collections of Smallest Versions of Largest Things",
@@ -717,7 +717,7 @@
             "longitude": -96.3054
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "World'sLargestCollections"
     },
     {
         "name": "Giant Van Gogh Painting",
@@ -733,7 +733,7 @@
             "longitude": -101.7102
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "GiantVanGoghPainting"
     },
     {
         "name": "The Big Well",
@@ -749,7 +749,7 @@
             "longitude": -99.2944
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "TheBigWell"
     },
     {
         "name": "World's Largest Ball of Twine",
@@ -765,7 +765,7 @@
             "longitude": -94.4103
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "World'sLargestBallofTwine"
     },
     {
         "name": "World's Largest Czech Egg",
@@ -781,6 +781,22 @@
             "longitude": -98.4727
         },
         "description": " ",
-        "imageName": " "
+        "imageName": "World'sLargestCzechEgg"
+    },
+    {
+        "name": "Worlds Largest Baseball",
+        "category": "Attractions",
+        "characteristic": "Big_Things",
+        "city": "Muscotah",
+        "state": "Kansas",
+        "id": 1050,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 39.5507,
+            "longitude": -95.5213
+        },
+        "description": " ",
+        "imageName": "WorldsLargestBaseball"
     }
 ]
