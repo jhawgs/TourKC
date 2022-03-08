@@ -11,7 +11,7 @@ struct FeatureCard: View {
     var landmark: Landmark
 
     var body: some View {
-        landmark.featureImage?
+        landmark.image
             .resizable()
             .aspectRatio(3 / 2, contentMode: .fit)
             .overlay {
