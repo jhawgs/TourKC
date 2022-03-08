@@ -87,7 +87,7 @@ struct LandmarkList: View {
                     }
                 }
             }
-            .navigationTitle("Landmarks")
+            .navigationTitle("Things to Do")
         }
     }
 }
