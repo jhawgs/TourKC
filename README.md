@@ -2,41 +2,27 @@
 FBLA Coding and Programming App
 
 ## Installation with Xcode
-When installing ***Grapevine*** on **macOS** to run in **Xcode**, one must install all dependencies with **Cocoapods**.
 
-First, navigate to the location of the project in the file system using `cd`.
-
-Then, if it is not already installed, install **Cocoapods** with `sudo gem install cocoapods`.
-
-Finally, run the following (ommitting `$`):
-```
-$ rm Podfile.lock
-$ pod deintegrate
-$ pod install
-$ pod update
-```
-This app can be installed on any **iOS** device by connecting the device to a **Mac** running **Xcode**. Then, clone this repository, select the device in the run menu (at the top of the window next to the run button, reading ***iPhone X*** by default), then click run. This will make a temporary installation of the app on the device. Occassionally, it will ask for a "Developer Team." This will require the installer to log in with their **Apple ID**.
-
-Some functionality is not available in the **iOS** simulator provided by **Xcode**. To gain access to all features, please install the app to an **iOS** device by connecting it to your **Mac** and installing with **Xcode**.
+***TourKC*** app can be installed on any **iOS** device by connecting the device to a **Mac** running **Xcode**. Clone this repository, and open it in **Xcode**. Select the destination device in the run menu (at the top of the window next to the run button, reading ***iPhone X*** by default), then click run. This will make a temporary installation of the app on the device. Occassionally, it will ask for a "Developer Team." This will require the installer to log in with their **Apple ID**.
 
 ## Usage
-Upon first launch, the user may take two routes: use an existing profile associated with a phone number or use a new phone number in the database. On the *Login* screen, the first entry box accepts a country code, and the second, the remainder of the phone number. Pressing verify performs authentication and unlocks the app. The user may also enter a phone number that is not associated with a profile. This brings the user to the *Register* page.
+Upon first launch, the user may ... . On the *...* screen, ... . This brings the user to ... .
 
-The main part of the app is the *Feed*, containing all posts. Scrolling will allow the user to view existing posts. Clicking the button at the top right will allow the user to post. The user can, then, enter text and select an image to post. After posting, a user may also delete or edit their post by clicking the three dots. Using the *Settings* screen, the user may update their profile image, name, bio, and the user may also logout.
+The main part of the app is the *...*, containing ... . The user can, then, ... . Using the *...* screen, the user may ... .
 
 ## Purpose
-We built ***Grapevine*** to make taking a new job more predictable. We try to do so by allowing people to share their experiences from the workplace. When taking a job, one should know what to expect, but, often, they aren’t able to gain any first-hand physical experience through shadowing or other types of interning in person. ***Grapevine*** gives people peace of mind by creating a more transparent workplace.
+We built ***TourKC*** to ... . We do so by ... . ... .***TourKC*** gives people ... .
 
 ## Project Structure
-We designed ***Grapevine's*** file structure to be intuitive and elegant. In this design, as one goes deeper into the file structure, files become less abstract.
+We designed ***TourKC's*** file structure to be intuitive and elegant. In this design, as one goes deeper into the file structure, files become less abstract.
 
-Like files are grouped together. Folders for data retrieval are located in the *ViewModel* folder; graphical aspects, *View*; database managers, *Model*; and artificial intelligence features, *AI*.
+Like files are grouped together. Folders for data retrieval are located in the *...* folder; graphical aspects, *...*; and database managers, *...*.
 
-The app also makes use of 3rd party dependencies such as **SDWebImage**, **Cocoapods**, and the **GoogleService-Info**. These dependencies retrieve web images, manage AI and database libraries, and coordinate with our **Firebase** database, respectively. Their code is within the *Pods* folder in this repository.
+The app also makes use of 3rd party dependencies ... . These dependencies ... .
 
-The top level of this repository includes an **Xcode** project, **Xcode** workspace, application test resources, ***Grapevine** Feedback & Planning Docs*, the ***Grapevine** User Guides*, the *Podfile* used to manage dependencies, the **PowerPoint** presentation, and *README.md* (this document). The following structure is found within the *Grapevine* folder.
+The top level of this repository includes an **Xcode** project, **Xcode** workspace, application test resources, the **PowerPoint** presentation, and *README.md* (this document). The following structure is found within the *TourKC* folder.
 ```
-Grapevine
+TourKC
 │   Assets.xcassest                                    // This package contains a collection of assets for the project
 │   GrapevineApp.swift                                 // This file is the residence of the main method, run upon the initialiation of the app
 │   ContentView.swift                                  // This file contains the implementation of the main screens, including the viewing of the first content that is viewed on the screen to organize the naviagation process. We can see the structure of elements such as the text "Login" ; "Enter phone number" ; and "Verify". The background color is an asset in our "Assets.xcassets" folder.
@@ -120,25 +106,21 @@ Grapevine
 ```
 
 ## FBLA Guidelines
-- [x] **The app must be rated for all ages**
-- [x] **Packaged with complete file, README, and instructions**: contains README and User Guide with usage instructions as well as info page on startup
-- [x] **Application Functionality**: application can be launched on **iPhone**, and an entirely web-based, cross-platform Porgressive Web Application is included in the Android User Guide
-- [x] **Documentation and Copyright Compliance**: license information is included in the code, code structure, and README.md
-- [x] **Application addresses the topic/problem**: application is a Professional Social Media app
-- [x] **Planning Process**: planning is thoroughy described in presentation
-- [x] **Navigation**: navigation is intuitive and described in README.md and the User Guide
-- [x] **Code**: code contains commentary and is arranged logically, as explained in Project Structure
-- [x] **Icon and Graphics**: graphics are consistent with logo color scheme, and logo is shown on device home screen
-- [x] **Social Media**: the app is connected to **Google Firebase**, makes use of a Social Media design, and integrates with other platforms as a gateway, and web version supports **Google** login
-- [x] **Bugs**: no bugs have been observed, and future bugs can be reported through **GitHub** and email or **Google Form** in the app
+- [ ] **The app must be rated for all ages**
+- [ ] **Packaged with complete file, README, and instructions**: contains README and User Guide with usage instructions as well as info page on startup
+- [ ] **Application Functionality**: application can be launched on **iPhone**, and an entirely web-based, cross-platform Porgressive Web Application is included in the Android User Guide
+- [ ] **Documentation and Copyright Compliance**: license information is included in the code, code structure, and README.md
+- [ ] **Application addresses the topic/problem**: application is a Professional Social Media app
+- [ ] **Planning Process**: planning is thoroughy described in presentation
+- [ ] **Navigation**: navigation is intuitive and described in README.md and the User Guide
+- [ ] **Code**: code contains commentary and is arranged logically, as explained in Project Structure
+- [ ] **Icon and Graphics**: graphics are consistent with logo color scheme, and logo is shown on device home screen
+- [ ] **Social Media**: the app is connected to **Google Firebase**, makes use of a Social Media design, and integrates with other platforms as a gateway, and web version supports **Google** login
+- [ ] **Bugs**: no bugs have been observed, and future bugs can be reported through **GitHub** and email or **Google Form** in the app
 
 ## Licensing and Templates
 All 3rd party resources are used under perpetual or circumstantial licenses, and their conditions are all met.
 
-Profile images appearing in the application are used under the ***Creative Commons*** license and are not of real people.
-
-The two landscape pictures used were taken personally and the rights to the images are maintained.
+Images appearing in the application are used under the ***Creative Commons*** license.
 
 System symbols are licensed for free developer use by **Apple**.
-
-**BertQA** capabilities (located in the file system as BertQACore) are used under the ***Apache License Version 2.0***. Consistently with the terms of the license, a copy is included in the top level of the BertQACore folder, and all copyright headers in the used files are maintained.
