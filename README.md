@@ -132,7 +132,7 @@ Grapevine
 - [x] **Social Media**: the app is connected to **Google Firebase**, makes use of a Social Media design, and integrates with other platforms as a gateway, and web version supports **Google** login
 - [x] **Bugs**: no bugs have been observed, and future bugs can be reported through **GitHub** and email or **Google Form** in the app
 
-## Licensing
+## Licensing and Templates
 All 3rd party resources are used under perpetual or circumstantial licenses, and their conditions are all met.
 
 Profile images appearing in the application are used under the ***Creative Commons*** license and are not of real people.
