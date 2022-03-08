@@ -123,4 +123,6 @@ All 3rd party resources are used under perpetual or circumstantial licenses, and
 
 Images appearing in the application are used under the ***Creative Commons*** license.
 
+The application was built, using a tutorial from **Apple** as a starting point. Significant modifications were made to the code and accompanying data.
+
 System symbols are licensed for free developer use by **Apple**.
