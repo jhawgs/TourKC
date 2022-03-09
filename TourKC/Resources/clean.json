@@ -13,7 +13,7 @@
             "longitude": -94.4862
         },
         "description": "Worlds of Fun is a amusement park that is fun for all ages. It had roller coasters, arcade games, and lots of great food!",
-        "imageName": "OceansOfFun.jpeg"
+        "imageName": "OceansOfFun"
     },
     {
         "name": "Oceans of Fun",
@@ -29,7 +29,7 @@
             "longitude": -94.4862
         },
         "description": "Oceans of Fun is a super fun water park in Missouri. It features many attractions including water based rides, wave pools, and lavy rivers.",
-        "imageName": "WorldsOfFun.jpeg"
+        "imageName": "WorldsOfFun"
     },
     {
         "name": "Kansas City Zoo",
@@ -45,7 +45,7 @@
             "longitude": -94.5292
         },
         "description": "The Kansas City Zoo is a great place to take your family to see a variety of cool animals. Make sure you say hi to the Giraffes!",
-        "imageName": "KansasCityZoo.jpeg"
+        "imageName": "KansasCityZoo"
     },
     {
         "name": "Topeka Zoo",
@@ -61,7 +61,7 @@
             "longitude": -95.7269
         },
         "description": "The Topeka Zoo is a medium-sized Zoo in Topeka Kansas. It features many great animals and is good for people who want a less-crowded zoo.",
-        "imageName": "TopekaZoo.jpeg"
+        "imageName": "TopekaZoo"
     },
     {
         "name": "Lego Land",
@@ -77,7 +77,7 @@
             "longitude": -94.5813
         },
         "description": "LegoLand is a Lego theme park. It features many attracions like a meticulouly built lego city, lego rides, a lego movie theater, and a station to build your own Lego contraptions! It is great place to take kids. ",
-        "imageName": "LegoLand.jpeg"
+        "imageName": "LegoLand"
     },
     {
         "name": "BreakoutKC",
@@ -93,7 +93,7 @@
             "longitude": -94.5813
         },
         "description": "BreatoutKC has many mysterious escape rooms with varying difficulty. It is a great place to go for a good puzzle. ",
-        "imageName": "BreakoutKC.jpeg"
+        "imageName": "BreakoutKC"
     },
     {
         "name": "Sea Life Kansas City",
@@ -109,7 +109,7 @@
             "longitude": -94.5854
         },
         "description": "Get transported to life underwater at Sea Life KC. Be ready to see cool aquatic animals that you have never even heard of!",
-        "imageName": "SeaLife.jpeg"
+        "imageName": "SeaLife"
     },
     {
         "name": "Great Wolf Lodge",
@@ -125,7 +125,7 @@
             "longitude": -94.8166
         },
         "description": "At Great Wolf Lodge you and your family can enjoy a world class waterpark, mini golf, and many other attractions. You can also stay overnight and have another day of fun!",
-        "imageName": "GreatWolfLodge.jpeg"
+        "imageName": "GreatWolfLodge"
     },
     {
         "name": "IFly",
@@ -140,11 +140,11 @@
             "latitude": 38.9303,
             "longitude": -94.6663
         },
-        "description": " ",
-        "imageName": "Ifly.jpeg"
+        "description": "At IFly you can have a great time experiencing skydiving without ever being in the sky! Indoor Skydiving is one of the best ways to eventually progress to the real thing. ",
+        "imageName": "Ifly"
     },
     {
-        "name": "Kansas City Speedway",
+        "name": "Kansas Speedway",
         "category": "Sports",
         "characteristic": "Racing",
         "city": "Kansas City",
@@ -156,8 +156,8 @@
             "latitude": 39.1117,
             "longitude": -94.8276
         },
-        "description": " ",
-        "imageName": "KansasCitySpeedway.jpeg"
+        "description": "Owned and operated by NASCAR, the Kansas Speedway hosts two annual NASCAR race weekends. The speedway is also home to the American Royal BBQ competition since 2016.",
+        "imageName": "KansasCitySpeedway"
     },
     {
         "name": "Sporting KC/Children's Mercy Park",
@@ -172,8 +172,8 @@
             "latitude": 39.1216,
             "longitude": -94.8232
         },
-        "description": " ",
-        "imageName": "ChildrensMercyPark.jpeg"
+        "description": "Winning awards like Venue of the Year and Best Stadium Experience, Children's Mercy Park provides fans with unforgettable experiences. The park hosts MLS team Sporting Kansas City and NWSL team Kansas City Current.",
+        "imageName": "ChildrensMercyPark"
     },
     {
         "name": "Chiefs/Arrowhead Staduim",
@@ -188,8 +188,8 @@
             "latitude": 39.0489,
             "longitude": -94.4839
         },
-        "description": " ",
-        "imageName": "ArrowheadStadium.jpeg"
+        "description": "Home to the Kansas City Chiefs, Arrowhead Stadium provides fans with one of the best experiences in the NFL. The stadium holds the record for loudest stadium at 144.2 dB.",
+        "imageName": "ArrowheadStadium"
     },
     {
         "name": "Royals/Kauffman Stadium",
@@ -204,8 +204,8 @@
             "latitude": 39.0517,
             "longitude": -94.4803
         },
-        "description": " ",
-        "imageName": "KauffmanStadium.jpeg"
+        "description": "Home to the Kansas City Royals, Kauffman Stadium provides fans with one of the best experiences in the MLB. It a great place to see a former world champion organization play!",
+        "imageName": "KauffmanStadium"
     },
     {
         "name": "Negro Baseball Hall of Fame",
@@ -220,8 +220,8 @@
             "latitude": 39.0914,
             "longitude": -94.5627
         },
-        "description": " ",
-        "imageName": "NegroBaseballHallOfFame.jpeg"
+        "description": "The Negro Baseball Hall of Fame celebrates every execptional baseball player for the negro leagues. Make sure to honor these players by visiting the hall of fame!",
+        "imageName": "NegroBaseballHallOfFame"
     },
     {
         "name": "Allen Fieldhouse",
@@ -236,8 +236,8 @@
             "latitude": 38.9542,
             "longitude": -95.2528
         },
-        "description": " ",
-        "imageName": "AllenFieldhouse.jpeg"
+        "description": "Home to the Kansas University Jayhawks, Allen Fieldhouse provides fans with one of the bext experiences in the NCAA. Make sure to be ready for a win because the Jayhawks have won 70% of their home games!",
+        "imageName": "AllenFieldhouse"
     },
     {
         "name": "Top Golf",
@@ -252,8 +252,8 @@
             "latitude": 38.9365,
             "longitude": -94.6482
         },
-        "description": " ",
-        "imageName": "TopGolf.jpeg"
+        "description": " Do you love golfing but hate putting? TopGolf is the perfect place to drive golfs balls or learn how to golf!",
+        "imageName": "TopGolf"
     },
     {
         "name": "American Jazz Museum",
@@ -268,11 +268,11 @@
             "latitude": 39.0916,
             "longitude": -94.5627
         },
-        "description": " ",
-        "imageName": "AmericanJazzMuseum.jpeg"
+        "description": "Learn about the history of American Jazz at the American Jazz Museum in Kansas City. You can also listen to live jazz in the Blue Room, a functioning jazz club!",
+        "imageName": "AmericanJazzMuseum"
     },
     {
-        "name": "WW1 Museum",
+        "name": "World War I Museum",
         "category": "Museum",
         "characteristic": "History",
         "city": "Kansas City",
@@ -284,8 +284,8 @@
             "latitude": 39.0807,
             "longitude": -94.5861
         },
-        "description": " ",
-        "imageName": "WW1Museum.jpeg"
+        "description": "Learn about World War 1 and the history America's influence in the first global war. ",
+        "imageName": "WW1Museum"
     },
     {
         "name": "Nelson Atkins Museum",
@@ -300,8 +300,8 @@
             "latitude": 39.0450,
             "longitude": -94.5809
         },
-        "description": " ",
-        "imageName": "NelsonAtkinsMuseum.jpeg"
+        "description": "At Nelson Atkins art museum you can observe gorgous art from nearly every continent and culture! Time magazine ranked the museum's Bloch Building number one on its list of "The 10 Best (New and Upcoming) Architectural Marvels" which considered candidates from around the globe.",
+        "imageName": "NelsonAtkinsMuseum"
     },
     {
         "name": "Union Station",
@@ -316,8 +316,8 @@
             "latitude": 39.0853,
             "longitude": -94.5856
         },
-        "description": " ",
-        "imageName": "UnionStation.jpeg"
+        "description": "Visit Union Station for a blast to the past of Kansas history. At various times during the year there are also many interesting events. Make sure to see the union station decorations for the Chiefs!",
+        "imageName": "UnionStation"
     },
     {
         "name": "Science City",
@@ -332,8 +332,8 @@
             "latitude": 39.0853,
             "longitude": -94.5856
         },
-        "description": " ",
-        "imageName": "ScienceCity.jpeg"
+        "description": "Science City is a great way to learn basic science through fun activities. Take yourself through different puzzles, brain twisters, and attractions and have fun while learning!",
+        "imageName": "ScienceCity"
     },
     {
         "name": "Steamboat Arabia",
@@ -348,8 +348,8 @@
             "latitude": 39.1095,
             "longitude": -94.5814
         },
-        "description": " ",
-        "imageName": "SteamboatArabia.jpeg"
+        "description": "At Steamboat Arabia you can have a chance to learn about the mystery surrounding the sinking of the Steamboat Arabia ship. The ship, having been rediscovered, is shown off in the museum accomanied by stories of the scienctists who found the ship. ",
+        "imageName": "SteamboatArabia"
     },
     {
         "name": "Museum at Prairiefire",
@@ -364,8 +364,8 @@
             "latitude": 38.8819,
             "longitude": -94.6521
         },
-        "description": " ",
-        "imageName": "MuseumAtPrairiefire.jpeg"
+        "description": "The Museum at Prariefire showcases many interesting exibits about Natural History. The museum has a partnership with the American Museum of Natural History and had many great exibits on dinosaurs. ",
+        "imageName": "MuseumAtPrairiefire"
     },
     {
         "name": "Money Museum",
@@ -380,8 +380,8 @@
             "latitude": 39.1034,
             "longitude": -94.5809
         },
-        "description": " ",
-        "imageName": "MoneyMuseum.jpeg"
+        "description": "Learn about the process of money being made and distributed at the Money Museum! You can learn a lot about money from the tour at the Money Museum. ",
+        "imageName": "MoneyMuseum"
     },
     {
         "name": "Boulevard Brewing Co",
@@ -396,8 +396,8 @@
             "latitude": 39.0821,
             "longitude": -94.5967
         },
-        "description": " ",
-        "imageName": "BoulevardBrewingCo.jpeg"
+        "description": "Boulevard Brewing Company tour  is a great place to learn how one of America's favorite drink is made: beer!  You can also make sure to enjoy some beer at the location.",
+        "imageName": "BoulevardBrewingCo"
     },
     {
         "name": "Joes Barbaque",
@@ -412,11 +412,11 @@
             "latitude": 38.9152,
             "longitude": -94.6393
         },
-        "description": " ",
-        "imageName": "JoesBarbeque.jpeg"
+        "description": "Joe's Barbeque is the most well known barbeque place in Kansas. If you want to try one of the foods that the state is known for there is no better place than Joe's Barbeque. ",
+        "imageName": "JoesBarbeque"
     },
     {
-        "name": "City Market",
+        "name": "River Market",
         "category": "Food",
         "characteristic": "Market",
         "city": "Kansas City",
@@ -428,8 +428,8 @@
             "latitude": 39.1101,
             "longitude": -94.5818
         },
-        "description": " ",
-        "imageName": "CityMarket.jpeg"
+        "description": "Head on down to the River Market in Missouri to explore the riverfront area which has many restaurants, bars, shops, cafes, and ethnic markets!",
+        "imageName": "CityMarket"
     },
     {
         "name": "Christopher Elbow Chocolates",
@@ -444,8 +444,8 @@
             "latitude": 39.0909,
             "longitude": -94.5800
         },
-        "description": " ",
-        "imageName": "ChristopherElbowChocolates.jpeg"
+        "description": "Christopher Elbows Chocolates is a great place to try various interesting pieces of chocolates. Make sure to buy some to go!",
+        "imageName": "ChristopherElbowChocolates"
     },
     {
         "name": "Overland Park Farmers Market",
@@ -460,8 +460,8 @@
             "latitude": 38.9848,
             "longitude": -94.6704
         },
-        "description": " ",
-        "imageName": "OverlandParkFarmersMarket.jpeg"
+        "description": "The Overland Park Farmers Market is a great way to buy organic food straight from farmers. It can be a fun trip for anyone!",
+        "imageName": "OverlandParkFarmersMarket"
     },
     {
         "name": "Deanna Rose Farmstead",
@@ -476,8 +476,8 @@
             "latitude": 38.8777,
             "longitude": -94.7033
         },
-        "description": " ",
-        "imageName": "DeannaRoseFarmstead.jpeg"
+        "description": "Deanna Rose Farmstead has a variety of activites ranging from feeding goats and watching animals to fishing. Make sure to visit the gift shop on the way out!",
+        "imageName": "DeannaRoseFarmstead"
     },
     {
         "name": "Overland Park Arboretum & Botanical Gardens",
@@ -492,8 +492,8 @@
             "latitude": 38.7978,
             "longitude": -94.6910
         },
-        "description": " ",
-        "imageName": "OverlandParkArboretum.jpeg"
+        "description": "The Overland Park Arboretum & Botanical Gardens are a great way to get in touch which nature. The 300 acre area consists of 6 miles of trails and 8 different ecosystems. ",
+        "imageName": "OverlandParkArboretum"
     },
     {
         "name": "Lakeside Nature Center",
@@ -508,8 +508,8 @@
             "latitude": 38.9953,
             "longitude": -94.5319
         },
-        "description": " ",
-        "imageName": "LakesideNatureCenter.jpeg"
+        "description": "The Lakeside Nature Center is an incredible place to enjoy learning about local native wildlife, including birds of prey, snakes, amphibians, turtles, fish, and invertebrates. ",
+        "imageName": "LakesideNatureCenter"
     },
     {
         "name": "Rock City",
@@ -524,8 +524,8 @@
             "latitude": 39.9785,
             "longitude": -95.2994
         },
-        "description": " ",
-        "imageName": "RockCity.jpeg"
+        "description": "Rock City is a prairie are that contains 3 sets of large boulders. It is great place to visit to see the peculiar side of nature or to take pictures. ",
+        "imageName": "RockCity"
     },
     {
         "name": "4-State Lookout (Kansas, Iowa, Nebraska, Missouri)",
@@ -540,8 +540,8 @@
             "latitude": 39.9738,
             "longitude": -95.2951
         },
-        "description": " ",
-        "imageName": "4-StateLookout.jpeg"
+        "description": "The 4-State Lookout - between Kansas, Iowa, Nebraska, and Missouri - is a cool attraction to visit. You can be in Kansas for one second and in Nebraka the next!",
+        "imageName": "4-StateLookout"
     },
     {
         "name": "Elk River Hiking Trail",
@@ -556,8 +556,8 @@
             "latitude":37.2892,
             "longitude": -95.91165
         },
-        "description": " ",
-        "imageName": "ElkRiverHikingTrail.jpeg"
+        "description": "The Elk River Hiking Trail is a 15 miles trail that is accesible year round. If you decide to go on this trail you can expect a long hike and a beatiful view. ",
+        "imageName": "ElkRiverHikingTrail"
     },
     {
         "name": "Legends Mall",
@@ -572,8 +572,8 @@
             "latitude": 39.1267,
             "longitude": -94.8260
         },
-        "description": " ",
-        "imageName": "LegendsMall.jpeg"
+        "description": "Legends Mall is a great outdoor shooping mall with tons of outlets to shop from. Plus, if you get hungry while shopping there are various restaurants and ice cream places in the venue. There is also a movie theater at Legends Mall.",
+        "imageName": "LegendsMall"
     },
     {
         "name": "Oak Park Mall",
@@ -588,8 +588,8 @@
             "latitude": 38.9531,
             "longitude": -94.7196
         },
-        "description": " ",
-        "imageName": "OakParkMall.jpeg"
+        "description": "Oak Park Mall is a great indoor shopping mall with tons of shopping options for clothes, accesories, toys, and anything else you may want. ",
+        "imageName": "OakParkMall"
     },
     {
         "name": "Country Club Plaza",
@@ -604,8 +604,8 @@
             "latitude": 39.0420,
             "longitude": -94.5926
         },
-        "description": " ",
-        "imageName": "CountryClubPlaza.jpeg"
+        "description": "Country Club Plaza, designed after its sister city Seville, Spain, is a great area with lots of great restautants and bars. The nightlife at the Plaza is great, especiallly how the plaza lights up t night!",
+        "imageName": "CountryClubPlaza"
     },
     {
         "name": "Crown Center",
@@ -620,8 +620,8 @@
             "latitude": 39.0810,
             "longitude": -94.5816
         },
-        "description": " ",
-        "imageName": "CrownCenter.jpeg"
+        "description": "Crown Center is a shopping center operated by Hallmark Cards. The shopping  complex features three levels of shops and restaurants, a set of grand open air fountains, live theaters, and an ice skating rink.",
+        "imageName": "CrownCenter"
     },
     {
         "name": "Kauffman Center",
@@ -636,8 +636,8 @@
             "latitude": 39.0941,
             "longitude": -94.5876
         },
-        "description": " ",
-        "imageName": "KauffmanCenter.jpeg"
+        "description": "The Kauffman Center is a performing arts center in Kansas City. The Kansas City Symphony, the Lyric Opera of Kansas City, and the Kansas City Ballet all perform here. If you have a refined taste in music, catching a show at the Kauffman Center might be your ideal visit.",
+        "imageName": "KauffmanCenter"
     },
     {
         "name": "T-Mobile Center",
@@ -652,8 +652,8 @@
             "latitude": 39.0975,
             "longitude": -94.5802
         },
-        "description": " ",
-        "imageName": "T-MobileCenter.jpeg"
+        "description": "The T-Mobile Center is a stadium for entertainment and has many purposes. Performers like Post Malone, Tyler the Creator, Wheezer, and Elton John have performed there. College basketball games are also sometimes played there. ",
+        "imageName": "T-MobileCenter"
     },
     {
         "name": "Starlight Theater",
@@ -668,8 +668,8 @@
             "latitude": 39.0075,
             "longitude": -94.5328
         },
-        "description": " ",
-        "imageName": "StarlightTheater.jpeg"
+        "description": "The Starligt Theater is home to Kansas City's best theater center. Some of the greatest plays and muscials in the state are performed at Starlight Theater. ",
+        "imageName": "StarlightTheater"
     },
     {
         "name": "TruckHenge",
@@ -684,8 +684,8 @@
             "latitude": 39.0792,
             "longitude": -95.6018
         },
-        "description": " ",
-        "imageName": "TruckHenge.jpeg"
+        "description": "Truckhenge is an abnormal attraction but an interesting one nontheless. It is art made out of trucks sticking out of the ground and is a must-see on a trip in Kansas. ",
+        "imageName": "TruckHenge"
     },
     {
         "name": "Oz Museum",
@@ -700,8 +700,8 @@
             "latitude": 39.2026,
             "longitude": -96.3054
         },
-        "description": " ",
-        "imageName": "OzMuseum.jpeg"
+        "description": "The Oz Museum is great for fanatics of the wonderful movie about the Wizard of Oz and Dorothy. Fun Fact, Dorothy was from Kansas in the story!",
+        "imageName": "OzMuseum"
     },
     {
         "name": "World's Largest Collections of Smallest Versions of Largest Things",
@@ -716,8 +716,8 @@
             "latitude": 39.2026,
             "longitude": -96.3054
         },
-        "description": " ",
-        "imageName": "World'sLargestCollections.jpeg"
+        "description": "At the World's Largest Collections of Smallest Versions of Largest Things, see cool attractions like the smallest version of the world's largest rubber band ball. You can see meticultios, miniature versions of huge things.",
+        "imageName": "World_sLargestCollections"
     },
     {
         "name": "Giant Van Gogh Painting",
@@ -732,8 +732,8 @@
             "latitude": 39.3508,
             "longitude": -101.7102
         },
-        "description": " ",
-        "imageName": "GiantVanGoghPainting.jpeg"
+        "description": "At the Giant Van Gogh painting one can see a huge canvas with a large Van Gogh painting on it. This is a cool attraction and definitly something to take a picture of and the painting plus the canvas is 80 feet tall!",
+        "imageName": "GiantVanGoghPainting"
     },
     {
         "name": "The Big Well",
@@ -748,8 +748,8 @@
             "latitude": 37.6034,
             "longitude": -99.2944
         },
-        "description": " ",
-        "imageName": "TheBigWell.jpeg"
+        "description": "At the Big Well, visitors can visit the bottom of the Big Well. They can also visit the Big Well Museum, contains a circular timeline of the city of Greensburg in three stages, including the beginnings of Greensburg, the Tornadic event, and the Eco-Friendly Rebuilding of Greensburg.",
+        "imageName": "TheBigWell"
     },
     {
         "name": "World's Largest Ball of Twine",
@@ -764,8 +764,8 @@
             "latitude": 45.0963,
             "longitude": -94.4103
         },
-        "description": " ",
-        "imageName": "World'sLargestBallofTwine.jpeg"
+        "description": "The World's Largest Ball of Twine is very self-explanatory. It is the world's largest ball of Twine and it is a great attraction to visit. The Twine ball is 12 feet and weight 17,400 pounds. ",
+        "imageName": "World_sLargestBallofTwine"
     },
     {
         "name": "World's Largest Czech Egg",
@@ -780,8 +780,8 @@
             "latitude": 38.8242,
             "longitude": -98.4727
         },
-        "description": " ",
-        "imageName": "World'sLargestCzechEgg.jpeg"
+        "description": "The World's Largest Czech Egg is a must see because of its intricte design despite its large nature. The black egg is decorated with white lines and jewels. ",
+        "imageName": "World_sLargestCzechEgg"
     },
     {
         "name": "Worlds Largest Baseball",
@@ -796,6 +796,7 @@
             "latitude": 39.5507,
             "longitude": -95.5213
         },
-        "imageName": "WorldsLargestBaseball.jpeg"
+        "description": "Baseball, Americas Largest Pastime, has a new attraction. The world's largest baseball is  20 feet wide. ",
+        "imageName": "WorldsLargestBaseball"
     }
 ]
