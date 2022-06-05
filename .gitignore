@@ -92,4 +92,4 @@ iOSInjectionProject/
 # Config
 #
 # Config to be ignored to conceal API key
-Config.swift
+TourKC/Config.swift
