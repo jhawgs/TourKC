@@ -40,7 +40,7 @@
         "city": "Kansas City",
         "state": "Missouri",
         "id": 1003,
-        "isFeatured": false,
+        "isFeatured": true,
         "isFavorite": false,
         "coordinates": {
             "latitude": 39.0069,
@@ -159,7 +159,7 @@
         "city": "Kansas City",
         "state": "Missouri",
         "id": 1010,
-        "isFeatured": false,
+        "isFeatured": true,
         "isFavorite": false,
         "coordinates": {
             "latitude": 39.1117,
@@ -686,7 +686,7 @@
         "city": "Kansas City",
         "state": "Missouri",
         "id": 1041,
-        "isFeatured": false,
+        "isFeatured": true,
         "isFavorite": false,
         "coordinates": {
             "latitude": 39.0975,
