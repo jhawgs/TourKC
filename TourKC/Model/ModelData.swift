@@ -10,9 +10,22 @@ import Combine
 
 final class ModelData: ObservableObject {
     @Published var landmarks: [Landmark] = load("landmarkData.json")
+    var w: WResult?
+    
+    init() {
+        WeatherService.shared.getWeather() { items in
+            self.w = items
+        }
+        print(self.w!)
+    }
 
     var features: [Landmark] {
-        landmarks.filter { $0.isFeatured }
+        //let w: WResult? = WeatherService.shared.getWeather()
+        if let _: WResult = self.w {
+            return landmarks.filter { $0.isFeatured } .filter { $0.isoutside && w!.main.feels_like >= 50 || !$0.isoutside && w!.main.feels_like < 50 }
+        } else {
+            return landmarks.filter { $0.isFeatured }
+        }
     }
 
     var categories: [String: [Landmark]] {
