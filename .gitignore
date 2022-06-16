@@ -93,3 +93,8 @@ iOSInjectionProject/
 #
 # Config to be ignored to conceal API key
 TourKC/Config.swift
+
+# Python
+#
+# pycache can be ignored
+__pycache__
