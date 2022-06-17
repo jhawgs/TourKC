@@ -6,6 +6,7 @@ A view showing the details for a landmark.
 */
 
 import SwiftUI
+import MapKit
 
 struct LandmarkDetail: View {
     @EnvironmentObject var modelData: ModelData
@@ -44,6 +45,18 @@ struct LandmarkDetail: View {
                 Text("About \(landmark.name)")
                     .font(.title2)
                 Text(.init("\(landmark.description) To learn more about \(landmark.name), visit their website [here](\(landmark.website))."))
+                if (landmark.like.count > 0) {
+                    Text("\n")
+                    Text("You Might Also Like")
+                        .font(.title2)
+                    ForEach(modelData.names2landmark(names: landmark.like)) { landmark in
+                        NavigationLink {
+                            LandmarkDetail(landmark: landmark)
+                        } label: {
+                            LandmarkRow(landmark: landmark)
+                        }
+                    }
+                }
             }
             .padding()
         }

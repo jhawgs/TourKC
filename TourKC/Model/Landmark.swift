@@ -18,6 +18,7 @@ struct Landmark: Hashable, Codable, Identifiable {
     var isFeatured: Bool
     var isoutside: Bool
     var website: String
+    var like: [String]
 
     var category: Category
     enum Category: String, CaseIterable, Codable, Identifiable {

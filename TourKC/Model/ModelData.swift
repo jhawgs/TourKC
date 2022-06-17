@@ -34,6 +34,18 @@ final class ModelData: ObservableObject {
             by: { $0.category.rawValue }
         )
     }
+    
+    func names2landmark(names: [String]) -> [Landmark] {
+        var ret: [Landmark] = []
+        for i in names {
+            for n in landmarks {
+                if (n.name == i) {
+                    ret.append(n)
+                }
+            }
+        }
+        return ret
+    }
 }
 
 func load<T: Decodable>(_ filename: String) -> T {
