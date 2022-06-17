@@ -8,6 +8,7 @@
         "id": 1001,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.worldsoffun.com/?utm_id=22FY&utm_medium=cpc&utm_source=google&utm_term=worlds%20of%20fun%20open&gclid=Cj0KCQjwwJuVBhCAARIsAOPwGARcvJFTyKxMsZBQja4poWXxVmlYoAxczeP7Kz6DJnsvR0r7BXXQ5m8aAqo_EALw_wcB&gclsrc=aw.ds",
         "coordinates": {
             "latitude": 39.1766,
             "longitude": -94.4862
@@ -25,6 +26,7 @@
         "id": 1002,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.worldsoffun.com/oceans-of-fun",
         "coordinates": {
             "latitude": 39.1766,
             "longitude": -94.4862
@@ -42,6 +44,7 @@
         "id": 1003,
         "isFeatured": true,
         "isFavorite": false,
+        "website": "https://www.kansascityzoo.org/",
         "coordinates": {
             "latitude": 39.0069,
             "longitude": -94.5292
@@ -59,6 +62,7 @@
         "id": 1004,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://topekazoo.org/",
         "coordinates": {
             "latitude": 39.0561,
             "longitude": -95.7269
@@ -76,6 +80,7 @@
         "id": 1005,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.legolanddiscoverycenter.com/kansas-city/",
         "coordinates": {
             "latitude": 39.0821,
             "longitude": -94.5813
@@ -93,6 +98,7 @@
         "id": 1006,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://breakoutkc.com/?gclid=Cj0KCQjwwJuVBhCAARIsAOPwGAQ4Q2pxyTkMSmGzkH5EFrNoNXncW2No1hCefdMl5IERsyobM8Hrd2MaAp4rEALw_wcB",
         "coordinates": {
             "latitude": 39.0821,
             "longitude": -94.5813
@@ -110,6 +116,7 @@
         "id": 1007,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.visitsealife.com/kansas-city/",
         "coordinates": {
             "latitude": 39.1097,
             "longitude": -94.5854
@@ -127,6 +134,7 @@
         "id": 1008,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.greatwolf.com/kansas-city/deals/more-fun-less?ctcampaign=7071&ctkwd=great+wolf+lodge+kansas+city&ctmatch=e&ctcreative=372669856064&ctadpos&ctplacement&ctlocid=9023916&cttrgtid=kwd-1484945299&ctfeedid&ctnwk=g&ctdevice=c&ctadgroup=46940863090&hxc_id=5097&gclsrc=aw.ds&&gclid=Cj0KCQjwwJuVBhCAARIsAOPwGATeFsQijF7XCgUQi0GQoooiVysvZL2gNUl2vPTz_Ouo_UAAZN6OCjYaAlDLEALw_wcB",
         "coordinates": {
             "latitude": 39.1179,
             "longitude": -94.8166
@@ -144,6 +152,7 @@
         "id": 1009,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.iflyworld.com/?utm_term=skydive%20indoors&utm_campaign=Paid+Search+-+Kansas+City+MO&utm_source=adwords&utm_medium=ppc&hsa_acc=5201528227&hsa_cam=11239590231&hsa_grp=111621399113&hsa_ad=469223492624&hsa_src=g&hsa_tgt=kwd-321631282519&hsa_kw=skydive%20indoors&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwwJuVBhCAARIsAOPwGASrxOpsvV9bFccKDqX5RoRNtljQmcy5gyOzQA4RIGW0y4jS1Mp5nvcaAtq_EALw_wcB",
         "coordinates": {
             "latitude": 38.9303,
             "longitude": -94.6663
@@ -161,6 +170,7 @@
         "id": 1010,
         "isFeatured": true,
         "isFavorite": false,
+        "website": "https://www.kansasspeedway.com/",
         "coordinates": {
             "latitude": 39.1117,
             "longitude": -94.8276
@@ -178,6 +188,7 @@
         "id": 1011,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://seatgeek.com/venues/children-s-mercy-park/tickets?aid=34&pid=730724521&gid=38587147096&rid=kwd-174312637937&dt=c&ap=&adId=366967007732&loc_interest=9023891&loc_physical=9023916&n=g&mt=b&ext=&xid=1&gclid=Cj0KCQjwwJuVBhCAARIsAOPwGARnlxOr8uRWtGDTtZcD2oWhA8Su7mgMXjeeIXFjKcN0rR32pesNft4aAjTJEALw_wcB",
         "coordinates": {
             "latitude": 39.1216,
             "longitude": -94.8232
@@ -195,6 +206,7 @@
         "id": 1012,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.chiefs.com/stadium/",
         "coordinates": {
             "latitude": 39.0489,
             "longitude": -94.4839
@@ -212,6 +224,7 @@
         "id": 1013,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.mlb.com/royals/ballpark",
         "coordinates": {
             "latitude": 39.0517,
             "longitude": -94.4803
@@ -229,6 +242,7 @@
         "id": 1014,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.nlbm.com/",
         "coordinates": {
             "latitude": 39.0914,
             "longitude": -94.5627
@@ -246,6 +260,7 @@
         "id": 1015,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://kuathletics.com/facilities/allen-fieldhouse/",
         "coordinates": {
             "latitude": 38.9542,
             "longitude": -95.2528
@@ -263,6 +278,7 @@
         "id": 1016,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://topgolf.com/us/overland-park/",
         "coordinates": {
             "latitude": 38.9365,
             "longitude": -94.6482
@@ -280,6 +296,7 @@
         "id": 1017,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://americanjazzmuseum.org/",
         "coordinates": {
             "latitude": 39.0916,
             "longitude": -94.5627
@@ -297,6 +314,7 @@
         "id": 1018,
         "isFeatured": true,
         "isFavorite": false,
+        "website": "https://www.theworldwar.org/",
         "coordinates": {
             "latitude": 39.0807,
             "longitude": -94.5861
@@ -314,6 +332,7 @@
         "id": 1019,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.nelson-atkins.org/",
         "coordinates": {
             "latitude": 39.0450,
             "longitude": -94.5809
@@ -331,6 +350,7 @@
         "id": 1020,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://unionstation.org/",
         "coordinates": {
             "latitude": 39.0853,
             "longitude": -94.5856
@@ -348,6 +368,7 @@
         "id": 1021,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://sciencecity.unionstation.org/",
         "coordinates": {
             "latitude": 39.0853,
             "longitude": -94.5856
@@ -365,6 +386,7 @@
         "id": 1022,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.1856.com/",
         "coordinates": {
             "latitude": 39.1095,
             "longitude": -94.5814
@@ -382,6 +404,7 @@
         "id": 1023,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.visitthemap.org/",
         "coordinates": {
             "latitude": 38.8819,
             "longitude": -94.6521
@@ -399,6 +422,7 @@
         "id": 1024,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.kansascityfed.org/moneymuseum/",
         "coordinates": {
             "latitude": 39.1034,
             "longitude": -94.5809
@@ -416,6 +440,7 @@
         "id": 1025,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.boulevard.com/",
         "coordinates": {
             "latitude": 39.0821,
             "longitude": -94.5967
@@ -425,7 +450,7 @@
         "isoutside": false
     },
     {
-        "name": "Joes Barbaque",
+        "name": "Joes Barbeque",
         "category": "Food",
         "characteristic": "Barbecue",
         "city": "Leawood",
@@ -433,6 +458,7 @@
         "id": 1026,
         "isFeatured": true,
         "isFavorite": false,
+        "website": "https://www.joeskc.com/collections?cmp_id=1046735690&adg_id=127261238045&kwd=barbecue%20online&device=c&gclid=Cj0KCQjwwJuVBhCAARIsAOPwGAQjeDBaAfN4P9xebR4DstbQThVUgexo6p0E4GqgZxyahiPdQ3h24_AaAiQXEALw_wcB",
         "coordinates": {
             "latitude": 38.9152,
             "longitude": -94.6393
@@ -450,6 +476,7 @@
         "id": 1027,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://kcrivermarket.com/",
         "coordinates": {
             "latitude": 39.1101,
             "longitude": -94.5818
@@ -467,6 +494,7 @@
         "id": 1028,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.elbowchocolates.com/?gclid=Cj0KCQjwwJuVBhCAARIsAOPwGAT9CM6W0rvQeuDleOmn58bmAxkP2DSp5PaoRJO902pSr9Pi6xgZGVcaAhYhEALw_wcB",
         "coordinates": {
             "latitude": 39.0909,
             "longitude": -94.5800
@@ -484,6 +512,7 @@
         "id": 1029,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.opkansas.org/recreation-fun/farmers-market/",
         "coordinates": {
             "latitude": 38.9848,
             "longitude": -94.6704
@@ -501,6 +530,7 @@
         "id": 1030,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.visitoverlandpark.com/listing/deanna-rose-childrens-farmstead/1647/?gclid=Cj0KCQjwwJuVBhCAARIsAOPwGARZUVMaGE_wH7XnJp2mAvDX7VEIo_11cP06KcyI5-qtw3ehOUHQq0waAlwCEALw_wcB",
         "coordinates": {
             "latitude": 38.8777,
             "longitude": -94.7033
@@ -518,6 +548,7 @@
         "id": 1031,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.opkansas.org/recreation-fun/arboretum-botanical-gardens/",
         "coordinates": {
             "latitude": 38.7978,
             "longitude": -94.6910
@@ -535,6 +566,7 @@
         "id": 1032,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://lakesidenaturecenter.org/",
         "coordinates": {
             "latitude": 38.9953,
             "longitude": -94.5319
@@ -552,6 +584,7 @@
         "id": 1033,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "http://www.kansastravel.org/rockcity.htm",
         "coordinates": {
             "latitude": 39.9785,
             "longitude": -95.2994
@@ -569,6 +602,7 @@
         "id": 1034,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.travelks.com/listing/four-state-lookout/1310/",
         "coordinates": {
             "latitude": 39.9738,
             "longitude": -95.2951
@@ -586,6 +620,7 @@
         "id": 1035,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.alltrails.com/trail/us/kansas/elk-river-hiking-trail",
         "coordinates": {
             "latitude":37.2892,
             "longitude": -95.91165
@@ -603,6 +638,7 @@
         "id": 1036,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://legendsshopping.com/",
         "coordinates": {
             "latitude": 39.1267,
             "longitude": -94.8260
@@ -620,6 +656,7 @@
         "id": 1037,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.thenewoakparkmall.com/",
         "coordinates": {
             "latitude": 38.9531,
             "longitude": -94.7196
@@ -637,6 +674,7 @@
         "id": 1038,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://countryclubplaza.com/",
         "coordinates": {
             "latitude": 39.0420,
             "longitude": -94.5926
@@ -654,6 +692,7 @@
         "id": 1039,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.crowncenter.com/",
         "coordinates": {
             "latitude": 39.0810,
             "longitude": -94.5816
@@ -671,6 +710,7 @@
         "id": 1040,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.kauffmancenter.org/",
         "coordinates": {
             "latitude": 39.0941,
             "longitude": -94.5876
@@ -688,6 +728,7 @@
         "id": 1041,
         "isFeatured": true,
         "isFavorite": false,
+        "website": "https://www.t-mobilecenter.com/",
         "coordinates": {
             "latitude": 39.0975,
             "longitude": -94.5802
@@ -705,6 +746,7 @@
         "id": 1042,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.kcstarlight.com/",
         "coordinates": {
             "latitude": 39.0075,
             "longitude": -94.5328
@@ -722,6 +764,7 @@
         "id": 1043,
         "isFeatured": true,
         "isFavorite": false,
+        "website": "http://www.kansastravel.org/truckhenge.htm",
         "coordinates": {
             "latitude": 39.0792,
             "longitude": -95.6018
@@ -739,6 +782,7 @@
         "id": 1044,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://ozmuseum.com/",
         "coordinates": {
             "latitude": 39.2026,
             "longitude": -96.3054
@@ -756,6 +800,7 @@
         "id": 1045,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "http://www.kansastravel.org/worldslargestcollection.htm#:~:text=Lucas%2C%20Kansas%20is%20the%20home,of%20the%20World's%20Largest%20Things.",
         "coordinates": {
             "latitude": 39.2026,
             "longitude": -96.3054
@@ -773,6 +818,7 @@
         "id": 1046,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "http://www.kansastravel.org/giantvangogh.htm",
         "coordinates": {
             "latitude": 39.3508,
             "longitude": -101.7102
@@ -790,6 +836,7 @@
         "id": 1047,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.bigwell.org/",
         "coordinates": {
             "latitude": 37.6034,
             "longitude": -99.2944
@@ -807,6 +854,7 @@
         "id": 1048,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "http://www.kansastravel.org/balloftwine.htm",
         "coordinates": {
             "latitude": 45.0963,
             "longitude": -94.4103
@@ -824,6 +872,7 @@
         "id": 1049,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "http://www.kansastravel.org/czechegg.htm",
         "coordinates": {
             "latitude": 38.8242,
             "longitude": -98.4727
@@ -841,6 +890,7 @@
         "id": 1050,
         "isFeatured": false,
         "isFavorite": false,
+        "website": "https://www.roadsideamerica.com/tip/38003",
         "coordinates": {
             "latitude": 39.5507,
             "longitude": -95.5213

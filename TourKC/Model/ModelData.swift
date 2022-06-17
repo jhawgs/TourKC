@@ -16,7 +16,7 @@ final class ModelData: ObservableObject {
         WeatherService.shared.getWeather() { items in
             self.w = items
         }
-        print(self.w!)
+        //print(self.w!)
     }
 
     var features: [Landmark] {
