@@ -20,6 +20,8 @@ struct CategoryItem: View {
             Text(landmark.name)
                 .foregroundColor(.primary)
                 .font(.caption)
+                .lineLimit(1)
+                .frame(width: 155, alignment: .leading)
         }
         .padding(.leading, 15)
     }
