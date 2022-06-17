@@ -43,7 +43,7 @@ struct LandmarkDetail: View {
 
                 Text("About \(landmark.name)")
                     .font(.title2)
-                Text(landmark.description)
+                Text(.init("\(landmark.description) To learn more about \(landmark.name), visit their website [here](\(landmark.website))."))
             }
             .padding()
         }
