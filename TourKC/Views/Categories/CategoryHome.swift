@@ -25,6 +25,8 @@ struct CategoryHome: View {
             }
             .listStyle(.inset)
             .navigationTitle("Featured")
+            .navigationViewStyle(.columns)
+            LandmarkDetail(landmark: modelData.names2landmark(names: ["World War I Museum"])[0])
         }
     }
 }

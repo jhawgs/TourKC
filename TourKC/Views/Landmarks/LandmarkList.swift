@@ -61,7 +61,7 @@ struct LandmarkList: View {
                         Label("Category", systemImage: "chevron.down")
                             .lineLimit(1)
                             .font(.subheadline)
-                            .background()
+                            .background(UIDevice.current.userInterfaceIdiom == .phone ? .white: Color(.init(gray: 0.1, alpha: 0.0)))
                             .cornerRadius(4)
                     }
                     Menu {
@@ -74,7 +74,7 @@ struct LandmarkList: View {
                         Label("Characteristic", systemImage: "chevron.down")
                             .lineLimit(1)
                             .font(.subheadline)
-                            .background()
+                            .background(UIDevice.current.userInterfaceIdiom == .phone ? .white: Color(.init(gray: 0.1, alpha: 0.0)))
                             .cornerRadius(4)
                     }
                 }
@@ -88,6 +88,8 @@ struct LandmarkList: View {
                 }
             }
             .navigationTitle("Things to Do")
+            .navigationViewStyle(.columns)
+            LandmarkDetail(landmark: modelData.names2landmark(names: ["World War I Museum"])[0])
         }
     }
 }
