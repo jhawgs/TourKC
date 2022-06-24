@@ -13,6 +13,7 @@ struct CategoryHome: View {
 
     var body: some View {
         NavigationView {
+            Text("")
             List {
                 PageView(pages: modelData.features.map { FeatureCard(landmark: $0) })
                     .aspectRatio(3 / 2, contentMode: .fit)
@@ -26,7 +27,7 @@ struct CategoryHome: View {
             .listStyle(.inset)
             .navigationTitle("Featured")
             .navigationViewStyle(.columns)
-            LandmarkDetail(landmark: modelData.names2landmark(names: ["World War I Museum"])[0])
+            //LandmarkDetail(landmark: modelData.names2landmark(names: ["World War I Museum"])[0])
         }
     }
 }
