@@ -16,9 +16,26 @@ struct ContentView: View {
     }
 
     var body: some View {
-        CategoryHome()
-            .environmentObject(ModelData())
-        
+        if (UIDevice.current.userInterfaceIdiom == .phone) {
+            TabView(selection: $selection) {
+                CategoryHome()
+                    .tabItem {
+                        Label("Featured", systemImage: "star")
+                    }
+                    .tag(Tab.featured)
+                    .environmentObject(ModelData())
+
+                LandmarkList()
+                    .tabItem {
+                        Label("List", systemImage: "list.bullet")
+                    }
+                    .tag(Tab.list)
+                    .environmentObject(ModelData())
+            }
+        } else {
+            CategoryHome()
+                .environmentObject(ModelData())
+        }
     }
 }
 

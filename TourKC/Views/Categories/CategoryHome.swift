@@ -12,23 +12,40 @@ struct CategoryHome: View {
     @State private var showingProfile = false
 
     var body: some View {
-        NavigationView {
-            LandmarkList()
-                .navigationTitle("Search")
-                .navigationBarHidden(true)
-            List {
-                PageView(pages: modelData.features.map { FeatureCard(landmark: $0) })
-                    .aspectRatio(3 / 2, contentMode: .fit)
+        if (UIDevice.current.userInterfaceIdiom == .phone) {
+            NavigationView {
+                List {
+                    PageView(pages: modelData.features.map { FeatureCard(landmark: $0) })
+                        .aspectRatio(3 / 2, contentMode: .fit)
+                        .listRowInsets(EdgeInsets())
+                    
+                    ForEach(modelData.categories.keys.sorted(), id: \.self) { key in
+                        CategoryRow(categoryName: key, items: modelData.categories[key]!)
+                    }
                     .listRowInsets(EdgeInsets())
-                    .listRowSeparator(.hidden)
-                ForEach(modelData.categories.keys.sorted(), id: \.self) { key in
-                    CategoryRow(categoryName: key, items: modelData.categories[key]!)
                 }
-                .listRowInsets(EdgeInsets())
+                .listStyle(.inset)
+                .navigationTitle("Featured")
             }
-            .listStyle(.inset)
-            .navigationViewStyle(.columns)
-            .navigationTitle("Featured")
+        } else {
+            NavigationView {
+                LandmarkList()
+                    .navigationTitle("Search")
+                    .navigationBarHidden(true)
+                List {
+                    PageView(pages: modelData.features.map { FeatureCard(landmark: $0) })
+                        .aspectRatio(3 / 2, contentMode: .fit)
+                        .listRowInsets(EdgeInsets())
+                        .listRowSeparator(.hidden)
+                    ForEach(modelData.categories.keys.sorted(), id: \.self) { key in
+                        CategoryRow(categoryName: key, items: modelData.categories[key]!)
+                    }
+                    .listRowInsets(EdgeInsets())
+                }
+                .listStyle(.inset)
+                .navigationViewStyle(.columns)
+                .navigationTitle("Featured")
+            }
         }
     }
 }
