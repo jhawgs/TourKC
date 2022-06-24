@@ -31,7 +31,7 @@ struct CategoryHome: View {
             NavigationView {
                 LandmarkList()
                     .environmentObject(modelData)
-                    .navigationTitle("Search")
+                    .navigationTitle(modelData.shown == "" ? "Search": "Featured")
                     .navigationBarHidden(true)
                 if (modelData.shown == "") {
                     List {
@@ -49,6 +49,7 @@ struct CategoryHome: View {
                     .navigationTitle("Featured")
                 } else {
                     LandmarkDetail(landmark: modelData.names2landmark(names: [modelData.shown])[0])
+                        .transition(.move(edge: .trailing).combined(with: .opacity))
                 }
             }
             //.navigationViewStyle(.stack)
