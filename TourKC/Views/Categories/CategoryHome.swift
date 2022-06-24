@@ -14,6 +14,8 @@ struct CategoryHome: View {
     var body: some View {
         NavigationView {
             LandmarkList()
+                .navigationTitle("Search")
+                .navigationBarHidden(true)
             List {
                 //Spacer()
                 //    .listRowSeparator(.hidden)
