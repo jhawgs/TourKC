@@ -8,20 +8,42 @@ A single row to be displayed in a list of landmarks.
 import SwiftUI
 
 struct LandmarkRow: View {
+    @EnvironmentObject var modelData: ModelData
     var landmark: Landmark
+    var defNav: Bool = false
 
     var body: some View {
-        HStack {
-            landmark.image
-                .resizable()
-                .frame(width: 50, height: 50)
-            Text(landmark.name)
+        if (UIDevice.current.userInterfaceIdiom == .phone || defNav) {
+            HStack {
+                landmark.image
+                    .resizable()
+                    .frame(width: 50, height: 50)
+                Text(landmark.name)
 
-            Spacer()
+                Spacer()
 
-            if landmark.isFavorite {
-                Image(systemName: "star.fill")
-                    .foregroundColor(.yellow)
+                if landmark.isFavorite {
+                    Image(systemName: "star.fill")
+                        .foregroundColor(.yellow)
+                }
+            }
+        } else {
+            HStack {
+                landmark.image
+                    .resizable()
+                    .frame(width: 50, height: 50)
+                Text(landmark.name)
+
+                Spacer()
+
+                if landmark.isFavorite {
+                    Image(systemName: "star.fill")
+                        .foregroundColor(.yellow)
+                }
+            }
+            .background(Color.white)
+            .onTapGesture {
+                modelData.shown = landmark.name
             }
         }
     }

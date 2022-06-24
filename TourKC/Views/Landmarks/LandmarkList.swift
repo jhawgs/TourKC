@@ -46,49 +46,93 @@ struct LandmarkList: View {
     }
 
     var body: some View {
-        NavigationView {
-            List {
-                TextField("Search", text: $search)
-                HStack {
-                    Menu {
-                        ForEach(Landmark.Category.allCases, content: { cat in
-                            Button(action: {
-                                set_cat(cat)
-                            }, label: {Label(cat.readable_string, systemImage: cat == filteredCategory ? "checkmark" : "none")})
-                        })
-                    } label: {
-                        Label(filteredCategory?.rawValue ?? "Category", systemImage: "chevron.down")
-                            .lineLimit(1)
-                            .font(.subheadline)
-                            .background(UIDevice.current.userInterfaceIdiom == .phone ? .white: Color(.init(gray: 0.1, alpha: 0.0)))
-                            .cornerRadius(4)
+        if (UIDevice.current.userInterfaceIdiom == .phone) {
+            NavigationView {
+                List {
+                    TextField("Search", text: $search)
+                    HStack {
+                        Menu {
+                            ForEach(Landmark.Category.allCases, content: { cat in
+                                Button(action: {
+                                    set_cat(cat)
+                                }, label: {Label(cat.readable_string, systemImage: cat == filteredCategory ? "checkmark" : "none")})
+                            })
+                        } label: {
+                            Label(filteredCategory?.rawValue ?? "Category", systemImage: "chevron.down")
+                                .lineLimit(1)
+                                .font(.subheadline)
+                                .background(UIDevice.current.userInterfaceIdiom == .phone ? .white: Color(.init(gray: 0.1, alpha: 0.0)))
+                                .cornerRadius(4)
+                        }
+                        Menu {
+                            ForEach(Landmark.Characteristic.allCases, content: { cat in
+                                Button(action: {
+                                    set_char(cat)
+                                }, label: {Label(cat.readable_string, systemImage: cat == filteredCharacteristic ? "checkmark" : "none")})
+                            })
+                        } label: {
+                            Label(filteredCharacteristic?.rawValue ?? "Characteristic", systemImage: "chevron.down")
+                                .lineLimit(1)
+                                .font(.subheadline)
+                                .background(UIDevice.current.userInterfaceIdiom == .phone ? .white: Color(.init(gray: 0.1, alpha: 0.0)))
+                                .cornerRadius(4)
+                        }
                     }
-                    Menu {
-                        ForEach(Landmark.Characteristic.allCases, content: { cat in
-                            Button(action: {
-                                set_char(cat)
-                            }, label: {Label(cat.readable_string, systemImage: cat == filteredCharacteristic ? "checkmark" : "none")})
-                        })
-                    } label: {
-                        Label(filteredCharacteristic?.rawValue ?? "Characteristic", systemImage: "chevron.down")
-                            .lineLimit(1)
-                            .font(.subheadline)
-                            .background(UIDevice.current.userInterfaceIdiom == .phone ? .white: Color(.init(gray: 0.1, alpha: 0.0)))
-                            .cornerRadius(4)
-                    }
-                }
 
-                ForEach(filteredLandmarks) { landmark in
-                    NavigationLink {
-                        LandmarkDetail(landmark: landmark)
-                    } label: {
-                        LandmarkRow(landmark: landmark)
+                    ForEach(filteredLandmarks) { landmark in
+                        NavigationLink {
+                            LandmarkDetail(landmark: landmark)
+                        } label: {
+                            LandmarkRow(landmark: landmark)
+                        }
                     }
                 }
+                .navigationTitle("Things to Do")
+                .navigationViewStyle(.columns)
+                LandmarkDetail(landmark: modelData.names2landmark(names: ["World War I Museum"])[0])
             }
-            .navigationTitle("Things to Do")
-            .navigationViewStyle(.columns)
-            LandmarkDetail(landmark: modelData.names2landmark(names: ["World War I Museum"])[0])
+        } else {
+            NavigationView {
+                List {
+                    TextField("Search", text: $search)
+                    HStack {
+                        Menu {
+                            ForEach(Landmark.Category.allCases, content: { cat in
+                                Button(action: {
+                                    set_cat(cat)
+                                }, label: {Label(cat.readable_string, systemImage: cat == filteredCategory ? "checkmark" : "none")})
+                            })
+                        } label: {
+                            Label(filteredCategory?.rawValue ?? "Category", systemImage: "chevron.down")
+                                .lineLimit(1)
+                                .font(.subheadline)
+                                .background(UIDevice.current.userInterfaceIdiom == .phone ? .white: Color(.init(gray: 0.1, alpha: 0.0)))
+                                .cornerRadius(4)
+                        }
+                        Menu {
+                            ForEach(Landmark.Characteristic.allCases, content: { cat in
+                                Button(action: {
+                                    set_char(cat)
+                                }, label: {Label(cat.readable_string, systemImage: cat == filteredCharacteristic ? "checkmark" : "none")})
+                            })
+                        } label: {
+                            Label(filteredCharacteristic?.rawValue ?? "Characteristic", systemImage: "chevron.down")
+                                .lineLimit(1)
+                                .font(.subheadline)
+                                .background(UIDevice.current.userInterfaceIdiom == .phone ? .white: Color(.init(gray: 0.1, alpha: 0.0)))
+                                .cornerRadius(4)
+                        }
+                    }
+
+                    ForEach(filteredLandmarks) { landmark in
+                        LandmarkRow(landmark: landmark)
+                            .environmentObject(modelData)
+                    }
+                }
+                .navigationTitle("Things to Do")
+                .navigationViewStyle(.columns)
+                LandmarkDetail(landmark: modelData.names2landmark(names: ["World War I Museum"])[0])
+            }
         }
     }
 }

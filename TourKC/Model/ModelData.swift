@@ -11,6 +11,7 @@ import Combine
 final class ModelData: ObservableObject {
     @Published var landmarks: [Landmark] = load("landmarkData.json")
     var w: WResult?
+    @Published var shown: String = ""
     
     init() {
         WeatherService.shared.getWeather() { items in

@@ -53,7 +53,7 @@ struct LandmarkDetail: View {
                         NavigationLink {
                             LandmarkDetail(landmark: landmark)
                         } label: {
-                            LandmarkRow(landmark: landmark)
+                            LandmarkRow(landmark: landmark, defNav: true)
                         }
                     }
                 }

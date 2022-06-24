@@ -30,22 +30,28 @@ struct CategoryHome: View {
         } else {
             NavigationView {
                 LandmarkList()
+                    .environmentObject(modelData)
                     .navigationTitle("Search")
                     .navigationBarHidden(true)
-                List {
-                    PageView(pages: modelData.features.map { FeatureCard(landmark: $0) })
-                        .aspectRatio(3 / 2, contentMode: .fit)
+                if (modelData.shown == "") {
+                    List {
+                        PageView(pages: modelData.features.map { FeatureCard(landmark: $0) })
+                            .aspectRatio(3 / 2, contentMode: .fit)
+                            .listRowInsets(EdgeInsets())
+                            .listRowSeparator(.hidden)
+                        ForEach(modelData.categories.keys.sorted(), id: \.self) { key in
+                            CategoryRow(categoryName: key, items: modelData.categories[key]!)
+                        }
                         .listRowInsets(EdgeInsets())
-                        .listRowSeparator(.hidden)
-                    ForEach(modelData.categories.keys.sorted(), id: \.self) { key in
-                        CategoryRow(categoryName: key, items: modelData.categories[key]!)
                     }
-                    .listRowInsets(EdgeInsets())
+                    .listStyle(.inset)
+                    .navigationViewStyle(.columns)
+                    .navigationTitle("Featured")
+                } else {
+                    LandmarkDetail(landmark: modelData.names2landmark(names: [modelData.shown])[0])
                 }
-                .listStyle(.inset)
-                .navigationViewStyle(.columns)
-                .navigationTitle("Featured")
             }
+            //.navigationViewStyle(.stack)
         }
     }
 }
