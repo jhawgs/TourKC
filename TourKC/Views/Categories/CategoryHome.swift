@@ -15,18 +15,27 @@ struct CategoryHome: View {
         NavigationView {
             Text("")
             List {
+                Spacer()
+                    .listRowSeparator(.hidden)
+                Text("Featured")
+                    .font(.system(size: 36, weight: .semibold))
+                    .listRowSeparator(.hidden)
                 PageView(pages: modelData.features.map { FeatureCard(landmark: $0) })
                     .aspectRatio(3 / 2, contentMode: .fit)
                     .listRowInsets(EdgeInsets())
-                
+                    .listRowSeparator(.hidden)
                 ForEach(modelData.categories.keys.sorted(), id: \.self) { key in
                     CategoryRow(categoryName: key, items: modelData.categories[key]!)
                 }
                 .listRowInsets(EdgeInsets())
             }
             .listStyle(.inset)
-            .navigationTitle("Featured")
             .navigationViewStyle(.columns)
+            .navigationBarItems(leading: Text("text"), trailing: Text("text"))
+            .navigationBarBackButtonHidden(true)
+            .navigationBarHidden(true)
+            //.background(Color.white)
+            .navigationTitle("Featured")
             //LandmarkDetail(landmark: modelData.names2landmark(names: ["World War I Museum"])[0])
         }
     }
