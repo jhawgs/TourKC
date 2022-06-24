@@ -131,6 +131,11 @@ struct LandmarkList: View {
                 }
                 .navigationTitle("Things to Do")
                 .navigationViewStyle(.columns)
+                .onAppear() {
+                    withAnimation(.easeInOut) {
+                        modelData.shown = ""
+                    }
+                }
                 LandmarkDetail(landmark: modelData.names2landmark(names: ["World War I Museum"])[0])
             }
         }

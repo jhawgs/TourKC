@@ -43,7 +43,9 @@ struct LandmarkRow: View {
             }
             .background(Color.white)
             .onTapGesture {
-                modelData.shown = landmark.name
+                withAnimation(.easeInOut) {
+                    modelData.shown = landmark.name
+                }
             }
         }
     }
