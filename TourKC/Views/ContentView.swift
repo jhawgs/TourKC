@@ -17,10 +17,6 @@ struct ContentView: View {
 
     var body: some View {
         CategoryHome()
-            //.tabItem {
-            //    Label("Featured", systemImage: "star")
-            //}
-            //.tag(Tab.featured)
             .environmentObject(ModelData())
         
     }

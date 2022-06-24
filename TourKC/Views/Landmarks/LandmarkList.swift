@@ -50,7 +50,6 @@ struct LandmarkList: View {
             List {
                 TextField("Search", text: $search)
                 HStack {
-                    //Text("Filter:")
                     Menu {
                         ForEach(Landmark.Category.allCases, content: { cat in
                             Button(action: {

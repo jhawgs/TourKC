@@ -17,11 +17,6 @@ struct CategoryHome: View {
                 .navigationTitle("Search")
                 .navigationBarHidden(true)
             List {
-                //Spacer()
-                //    .listRowSeparator(.hidden)
-                //Text("Featured")
-                //    .font(.system(size: 36, weight: .semibold))
-                //    .listRowSeparator(.hidden)
                 PageView(pages: modelData.features.map { FeatureCard(landmark: $0) })
                     .aspectRatio(3 / 2, contentMode: .fit)
                     .listRowInsets(EdgeInsets())
@@ -33,12 +28,7 @@ struct CategoryHome: View {
             }
             .listStyle(.inset)
             .navigationViewStyle(.columns)
-            //.navigationBarItems(leading: Text("text"), trailing: Text("text"))
-            //.navigationBarBackButtonHidden(true)
-            //.navigationBarHidden(true)
-            //.background(Color.white)
             .navigationTitle("Featured")
-            //LandmarkDetail(landmark: modelData.names2landmark(names: ["World War I Museum"])[0])
         }
     }
 }
