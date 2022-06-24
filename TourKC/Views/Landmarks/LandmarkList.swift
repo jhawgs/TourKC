@@ -57,7 +57,7 @@ struct LandmarkList: View {
                             }, label: {Label(cat.readable_string, systemImage: cat == filteredCategory ? "checkmark" : "none")})
                         })
                     } label: {
-                        Label("Category", systemImage: "chevron.down")
+                        Label(filteredCategory?.rawValue ?? "Category", systemImage: "chevron.down")
                             .lineLimit(1)
                             .font(.subheadline)
                             .background(UIDevice.current.userInterfaceIdiom == .phone ? .white: Color(.init(gray: 0.1, alpha: 0.0)))
@@ -70,7 +70,7 @@ struct LandmarkList: View {
                             }, label: {Label(cat.readable_string, systemImage: cat == filteredCharacteristic ? "checkmark" : "none")})
                         })
                     } label: {
-                        Label("Characteristic", systemImage: "chevron.down")
+                        Label(filteredCharacteristic?.rawValue ?? "Characteristic", systemImage: "chevron.down")
                             .lineLimit(1)
                             .font(.subheadline)
                             .background(UIDevice.current.userInterfaceIdiom == .phone ? .white: Color(.init(gray: 0.1, alpha: 0.0)))
