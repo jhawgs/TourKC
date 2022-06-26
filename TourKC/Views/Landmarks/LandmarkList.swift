@@ -10,6 +10,7 @@ import SwiftUI
 struct LandmarkList: View {
     @EnvironmentObject var modelData: ModelData
     @State private var showFavoritesOnly: Bool = false
+    @State private var weatherOnly: Bool = false
     @State private var search: String = ""
     @State private var filteredCategory: Landmark.Category? = nil
     @State private var filteredCharacteristic: Landmark.Characteristic? = nil
@@ -43,6 +44,9 @@ struct LandmarkList: View {
         .filter { landmark in
             (filteredCharacteristic == nil || landmark.characteristic == filteredCharacteristic)
         }
+        .filter { landmark in
+            (!weatherOnly || modelData.isWeatherPermit(landmark))
+        }
     }
 
     var body: some View {
@@ -52,6 +56,9 @@ struct LandmarkList: View {
                     //HStack {
                     TextField("Search", text: $search)
                     Toggle("Favorites Only", isOn: $showFavoritesOnly)
+                    if let _ = modelData.w {
+                        Toggle("Weather-Based", isOn: $weatherOnly)
+                    }
                     //}
                     HStack {
                         Menu {
@@ -100,6 +107,9 @@ struct LandmarkList: View {
                     //HStack {
                     TextField("Search", text: $search)
                     Toggle("Favorites Only", isOn: $showFavoritesOnly)
+                    if let _ = modelData.w {
+                        Toggle("Weather-Based", isOn: $weatherOnly)
+                    }
                     //}
                     HStack {
                         Menu {

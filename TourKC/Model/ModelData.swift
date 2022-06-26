@@ -35,6 +35,10 @@ final class ModelData: ObservableObject {
             return landmarks.filter { $0.isFeatured }
         }
     }
+    
+    func isWeatherPermit(_ mark: Landmark) -> Bool {
+        return mark.isoutside && w!.main.feels_like >= 50 || !mark.isoutside && w!.main.feels_like < 50
+    }
 
     var categories: [String: [Landmark]] {
         Dictionary(
