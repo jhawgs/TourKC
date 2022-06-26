@@ -14,10 +14,17 @@ final class ModelData: ObservableObject {
     @Published var shown: String = ""
     
     init() {
+        let defaults = UserDefaults.standard
         WeatherService.shared.getWeather() { items in
             self.w = items
         }
         //print(self.w!)
+        var new_mark: [Landmark] = []
+        for var i: Landmark in landmarks {
+            i.isFavorite = defaults.bool(forKey: i.name + "_fav")
+            new_mark.append(i)
+        }
+        landmarks = new_mark
     }
 
     var features: [Landmark] {
