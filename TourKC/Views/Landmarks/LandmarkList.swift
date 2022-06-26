@@ -49,7 +49,10 @@ struct LandmarkList: View {
         if (UIDevice.current.userInterfaceIdiom == .phone) {
             NavigationView {
                 List {
+                    //HStack {
                     TextField("Search", text: $search)
+                    Toggle("Favorites Only", isOn: $showFavoritesOnly)
+                    //}
                     HStack {
                         Menu {
                             ForEach(Landmark.Category.allCases, content: { cat in
@@ -94,7 +97,10 @@ struct LandmarkList: View {
         } else {
             NavigationView {
                 List {
+                    //HStack {
                     TextField("Search", text: $search)
+                    Toggle("Favorites Only", isOn: $showFavoritesOnly)
+                    //}
                     HStack {
                         Menu {
                             ForEach(Landmark.Category.allCases, content: { cat in
