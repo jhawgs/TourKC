@@ -6,12 +6,12 @@ Cancel changes
 ***TourKC*** app can be installed on any **iOS** device by connecting the device to a **Mac** running **Xcode**. Clone this repository, and open it in **Xcode**. Select the destination device in the run menu (at the top of the window next to the run button, reading ***iPhone X*** by default), then click run. This will make a temporary installation of the app on the device. Occassionally, it will ask for a "Developer Team." This will require the installer to log in with their **Apple ID**. TourKC also backs up and stores user information from the app.
 
 ## Usage
-Upon first launch, the user may ... . On the *...* screen, ... . This brings the user to ... .
+Upon first launch, the user will see the app home screen consiting of a view with featured attractions and 50 attractions divided into categories. On the home screen there is also a search sidebar that users can use to look up specific locations or search by category and characteristic. Once the user clicks on an attraction they are taken to another screen with specific information about the attraction. This screen has the attraciton on a map, a description of the location, the location's website, reccomendations of similar attractions, and a favorite button for locations that the user likes. 
 
-The main part of the app is the *...*, containing ... . The user can, then, ... . Using the *...* screen, the user may ... .
+The most useful part of the app to cater to specific individuals is the search feature as it allows users to customize and analyze specific information about their interests. All of the 50 locations were assigned to 8 categories and 30 characteristics for the user's convienience. 
 
 ## Purpose
-We built ***TourKC*** to ... . We do so by ... . ... .***TourKC*** gives people ... .
+We built ***TourKC*** to promote tourism in the Kansas City Area. We did this by presenting 50 great attractions for people to visit with an accesible means to see and select attractions.
 
 <!---
 
