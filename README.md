@@ -130,3 +130,7 @@ The OpenWeatherMap API was used in TourKC consistent with all agreements and lic
 The application was built, using a tutorial from **Apple** as a starting point. Significant modifications were made to the code and accompanying data.
 
 System symbols are licensed for free developer use by **Apple**.
+
+The Application was created on Xcode using SwiftUI as well as elements of Python and Json
+
+The Json data was obtained on Google Sheets by entering a script to allow a convert to json function on Google Sheets
