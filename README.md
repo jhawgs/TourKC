@@ -5,8 +5,6 @@ Cancel changes
 
 ***TourKC*** app can be installed on any **iOS** device by connecting the device to a **Mac** running **Xcode**. Clone this repository, and open it in **Xcode**. Select the destination device in the run menu (at the top of the window next to the run button, reading ***iPhone X*** by default), then click run. This will make a temporary installation of the app on the device. Occassionally, it will ask for a "Developer Team." This will require the installer to log in with their **Apple ID**. TourKC also backs up and stores user information from the app.
 
-<!---
-
 ## Usage
 Upon first launch, the user may ... . On the *...* screen, ... . This brings the user to ... .
 
@@ -14,6 +12,8 @@ The main part of the app is the *...*, containing ... . The user can, then, ... 
 
 ## Purpose
 We built ***TourKC*** to ... . We do so by ... . ... .***TourKC*** gives people ... .
+
+<!---
 
 ## Project Structure
 We designed ***TourKC's*** file structure to be intuitive and elegant. In this design, as one goes deeper into the file structure, files become less abstract.
@@ -125,7 +125,7 @@ All 3rd party resources are used under perpetual or circumstantial licenses, and
 
 Images appearing in the application are used under the ***Creative Commons*** license.
 
-The OpenWeatherMap API was used in TourKC.
+The OpenWeatherMap API was used in TourKC consistent with all agreements and licenses.
 
 The application was built, using a tutorial from **Apple** as a starting point. Significant modifications were made to the code and accompanying data.
 
