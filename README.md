@@ -1,14 +1,14 @@
 # TourKC
 FBLA Coding and Programming App
-Cancel changes
+
 ## Installation with Xcode
 
-***TourKC*** app can be installed on any **iOS** device by connecting the device to a **Mac** running **Xcode**. Clone this repository, and open it in **Xcode**. Select the destination device in the run menu (at the top of the window next to the run button, reading ***iPhone X*** by default), then click run. This will make a temporary installation of the app on the device. Occassionally, it will ask for a "Developer Team." This will require the installer to log in with their **Apple ID**. TourKC also backs up and stores user information from the app.
+***TourKC*** app can be installed on any **iOS** device by connecting the device to a **Mac** running **Xcode**. Clone this repository, and open it in **Xcode**. Select the destination device in the run menu (at the top of the window next to the run button, reading ***iPhone X*** by default), then click run. This will make a temporary installation of the app on the device. Occassionally, it will ask for a "Developer Team." This will require the installer to log in with their **Apple ID**. TourKC also backs up and stores user information from the app on-device.
 
 ## Usage
-Upon first launch, the user will see the app home screen consiting of a view with featured attractions and 50 attractions divided into categories. On the home screen there is also a search sidebar that users can use to look up specific locations or search by category and characteristic. Once the user clicks on an attraction they are taken to another screen with specific information about the attraction. This screen has the attraciton on a map, a description of the location, the location's website, reccomendations of similar attractions, and a favorite button for locations that the user likes. 
+Upon first launch, the user will see the app home screen consiting of a view with featured attractions and 50 attractions divided into categories. On the home screen there is also a search sidebar that users can use to look up specific locations or search by category and characteristic. Once the user clicks on an attraction they are taken to another screen with specific information about the attraction. This screen has the attraciton on a map, a description of the location, the location's website, reccomendations of similar attractions, and a favorite button for locations that the user likes.
 
-The most useful part of the app to cater to specific individuals is the search feature as it allows users to customize and analyze specific information about their interests. All of the 50 locations were assigned to 8 categories and 30 characteristics for the user's convienience. 
+The most useful part of the app to cater to specific individuals is the search feature as it allows users to customize and analyze specific information about their interests. All of the 50 locations were assigned to 8 categories and 30 characteristics for the user's convienience.
 
 ## Purpose
 We built ***TourKC*** to promote tourism in the Kansas City Area. We did this by presenting 50 great attractions for people to visit with an accesible means to see and select attractions.
@@ -130,7 +130,3 @@ The OpenWeatherMap API was used in TourKC consistent with all agreements and lic
 The application was built, using a tutorial from **Apple** as a starting point. Significant modifications were made to the code and accompanying data.
 
 System symbols are licensed for free developer use by **Apple**.
-
-The Application was created on Xcode using SwiftUI as well as elements of Python and Json
-
-The Json data was obtained on Google Sheets by entering a script to allow a convert to json function on Google Sheets
