@@ -133,7 +133,7 @@ System symbols are licensed for free developer use by **Apple**.
 
 ***TourKC*** stores information from the app on-device.
 
-## En Españo1
+## En Español
 **TourKC**
 
 Aplicación de codificación y programación FBLA
