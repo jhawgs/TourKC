@@ -135,6 +135,7 @@ System symbols are licensed for free developer use by **Apple**.
 
 ## En Españo1
 **TourKC**
+
 Aplicación de codificación y programación FBLA
 
 ## Objetivo
@@ -148,3 +149,16 @@ La aplicación ***TourKC*** se puede instalar en cualquier dispositivo **iOS** c
 Al iniciar ***TourKC***, el usuario verá la pantalla de inicio de ***TourKC***, que consta de atracciones destacadas y las 50 atracciones divididas en categorías. Al hacer clic en el botón de búsqueda en la esquina superior izquierda de la pantalla, el usuario abre una barra lateral donde puede filtrar las atracciones por nombre, categoría u otras características.
 
 Al seleccionar una atracción, se lleva al usuario a una pantalla de detalles con información específica sobre la atracción. En esta vista, la atracción se coloca en un mapa y el usuario puede leer una breve descripción de la ubicación, seguir un enlace al sitio web de la ubicación o explorar recomendaciones de atracciones similares. El usuario también puede usar el botón de favoritos para guardar ciertas atracciones para más adelante.
+
+## Licencias y Plantillas
+Todos los recursos de terceros se utilizan bajo licencias perpetuas o circunstanciales, y se cumplen todas sus condiciones.
+
+Las imágenes que aparecen en la aplicación se utilizan bajo la licencia **Creative Commons**.
+
+La API de OpenWeatherMap se usa en ***TourKC*** de manera consistente con todos los acuerdos y licencias.
+
+La aplicación se creó utilizando un tutorial de **Apple** como punto de partida. Se realizaron modificaciones significativas al código y a los datos que lo acompañan.
+
+Los símbolos del sistema tienen licencia para uso gratuito de desarrolladores de **Apple**.
+
+***TourKC*** almacena información de la aplicación en el dispositivo.
