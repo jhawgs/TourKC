@@ -13,7 +13,7 @@
             "latitude": 39.1766,
             "longitude": -94.4862
         },
-        "description": "Worlds of Fun is a amusement park that is fun for all ages. It had roller coasters, arcade games, and lots of great food!",
+        "description": "Worlds of Fun is an amusement park that is fun for all ages. It has roller coasters, arcade games, and lots of great food!",
         "imageName": "OceansOfFun",
         "isoutside": true,
         "like": [
@@ -36,7 +36,7 @@
             "latitude": 39.1766,
             "longitude": -94.4862
         },
-        "description": "Oceans of Fun is a super fun water park in Missouri. It features many attractions including water based rides, wave pools, and lavy rivers.",
+        "description": "Oceans of Fun is a super fun water park in Missouri. It features many attractions including water based rides, wave pools, and lazy rivers.",
         "imageName": "WorldsOfFun",
         "isoutside": true,
         "like": [
@@ -104,7 +104,7 @@
             "latitude": 39.0821,
             "longitude": -94.5813
         },
-        "description": "LegoLand is a Lego theme park. It features many attracions like a meticulouly built lego city, lego rides, a lego movie theater, and a station to build your own Lego contraptions! It is great place to take kids. ",
+        "description": "LegoLand is a Lego theme park. It features many attractions like a meticulouly built lego city, lego rides, a lego movie theater, and a station to build your own Lego contraptions! It is great place to take kids.",
         "imageName": "LegoLand",
         "isoutside": false,
         "like": [
@@ -128,7 +128,7 @@
             "latitude": 39.0821,
             "longitude": -94.5813
         },
-        "description": "BreatoutKC has many mysterious escape rooms with varying difficulty. It is a great place to go for a good puzzle. ",
+        "description": "BreakoutKC has many mysterious escape rooms of varying difficulties. It is a great place to go for a good puzzle.",
         "imageName": "BreakoutKC",
         "isoutside": false,
         "like": [
@@ -194,7 +194,7 @@
             "latitude": 38.9303,
             "longitude": -94.6663
         },
-        "description": "At IFly you can have a great time experiencing skydiving without ever being in the sky! Indoor Skydiving is one of the best ways to eventually progress to the real thing. ",
+        "description": "At IFly you can have a great time experiencing skydiving without ever being in the sky! Indoor Skydiving is one of the best ways to eventually progress to the real thing.",
         "imageName": "Ifly",
         "isoutside": false,
         "like": []
@@ -213,7 +213,7 @@
             "latitude": 39.1117,
             "longitude": -94.8276
         },
-        "description": "Owned and operated by NASCAR, the Kansas Speedway hosts two annual NASCAR race weekends. The speedway is also home to the American Royal BBQ competition since 2016.",
+        "description": "Owned and operated by NASCAR, the Kansas Speedway hosts two annual NASCAR race weekends. The speedway has also been home to the American Royal BBQ competition since 2016.",
         "imageName": "KansasCitySpeedway",
         "isoutside": true,
         "like": [
@@ -288,7 +288,7 @@
         ]
     },
     {
-        "name": "Negro Baseball Hall of Fame",
+        "name": "Negro Leagues Baseball Hall of Fame",
         "category": "Sports",
         "characteristic": "Baseball",
         "city": "Kansas City",
@@ -301,7 +301,7 @@
             "latitude": 39.0914,
             "longitude": -94.5627
         },
-        "description": "The Negro Baseball Hall of Fame celebrates every execptional baseball player for the negro leagues. Make sure to honor these players by visiting the hall of fame!",
+        "description": "The Negro Leagues Baseball Hall of Fame celebrates execptional baseball players from the negro leagues. Make sure to honor these players by visiting the hall of fame!",
         "imageName": "NegroBaseballHallOfFame",
         "isoutside": false,
         "like": [
@@ -324,7 +324,7 @@
             "latitude": 38.9542,
             "longitude": -95.2528
         },
-        "description": "Home to the Kansas University Jayhawks, Allen Fieldhouse provides fans with one of the bext experiences in the NCAA. Make sure to be ready for a win because the Jayhawks have won 70% of their home games!",
+        "description": "Home to the University of Kansas Jayhawks, Allen Fieldhouse provides fans with one of the bext experiences in the NCAA. Make sure to be ready for a win because the Jayhawks have won 70% of their home games!",
         "imageName": "AllenFieldhouse",
         "isoutside": false,
         "like": [
@@ -346,7 +346,7 @@
             "latitude": 38.9365,
             "longitude": -94.6482
         },
-        "description": " Do you love golfing but hate putting? TopGolf is the perfect place to drive golfs balls or learn how to golf!",
+        "description": "Do you love golfing but hate putting? TopGolf is the perfect place to drive golf balls or learn how to golf!",
         "imageName": "TopGolf",
         "isoutside": true,
         "like": [
@@ -390,7 +390,7 @@
             "latitude": 39.0807,
             "longitude": -94.5861
         },
-        "description": "Learn about World War 1 and the history America's influence in the first global war. ",
+        "description": "Learn about World War I and America's influence in the war.",
         "imageName": "WW1Museum",
         "isoutside": false,
         "like": [
@@ -414,7 +414,7 @@
             "latitude": 39.045,
             "longitude": -94.5809
         },
-        "description": "At Nelson Atkins art museum you can observe gorgous art from nearly every continent and culture! Time magazine ranked the museum's Bloch Building number one on its list of \"The 10 Best (New and Upcoming) Architectural Marvels\" which considered candidates from around the globe.",
+        "description": "At Nelson Atkins art museum you can observe gorgeous art from nearly every continent and culture! Time magazine ranked the museum's Bloch Building number one on its list of \"The 10 Best (New and Upcoming) Architectural Marvels\" which considered candidates from around the globe.",
         "imageName": "NelsonAtkinsMuseum",
         "isoutside": false,
         "like": [
@@ -438,11 +438,11 @@
             "latitude": 39.0853,
             "longitude": -94.5856
         },
-        "description": "Visit Union Station for a blast to the past of Kansas history. At various times during the year there are also many interesting events. Make sure to see the union station decorations for the Chiefs!",
+        "description": "Visit Union Station for a blast from the past of Kansas history. At various times during the year there are also many interesting events. Make sure to see the Union Station decorations for the Chiefs!",
         "imageName": "UnionStation",
         "isoutside": false,
         "like": [
-            "Negro Baseball Hall of Fame",
+            "Negro Leagues Baseball Hall of Fame",
             "Deanna Rose Farmstead",
             "T-Mobile Center"
         ]
@@ -484,7 +484,7 @@
             "latitude": 39.1095,
             "longitude": -94.5814
         },
-        "description": "At Steamboat Arabia you can have a chance to learn about the mystery surrounding the sinking of the Steamboat Arabia ship. The ship, having been rediscovered, is shown off in the museum accomanied by stories of the scienctists who found the ship. ",
+        "description": "At Steamboat Arabia you can have a chance to learn about the mystery surrounding the sinking of the Steamboat Arabia ship. The ship, having been rediscovered, is shown off in the museum accompanied by stories of the scientists who found the ship.",
         "imageName": "SteamboatArabia",
         "isoutside": false,
         "like": [
@@ -508,7 +508,7 @@
             "latitude": 38.8819,
             "longitude": -94.6521
         },
-        "description": "The Museum at Prariefire showcases many interesting exibits about Natural History. The museum has a partnership with the American Museum of Natural History and had many great exibits on dinosaurs. ",
+        "description": "The Museum at Prairiefire showcases many interesting exhibits of Natural History. The museum has a partnership with the American Museum of Natural History and has many great exhibits on dinosaurs.",
         "imageName": "MuseumAtPrairiefire",
         "isoutside": false,
         "like": [
@@ -529,7 +529,7 @@
             "latitude": 39.1034,
             "longitude": -94.5809
         },
-        "description": "Learn about the process of money being made and distributed at the Money Museum! You can learn a lot about money from the tour at the Money Museum. ",
+        "description": "Learn about the process of making and circulating money at the Money Museum! You can learn a lot about money from the tour at the Money Museum.",
         "imageName": "MoneyMuseum",
         "isoutside": false,
         "like": [
@@ -553,7 +553,7 @@
             "latitude": 39.0821,
             "longitude": -94.5967
         },
-        "description": "Boulevard Brewing Company tour  is a great place to learn how one of America's favorite drink is made: beer!  You can also make sure to enjoy some beer at the location.",
+        "description": "Boulevard Brewing Company tour is a great place to learn how one of America's favorite drinks is made.",
         "imageName": "BoulevardBrewingCo",
         "isoutside": false,
         "like": [
@@ -576,7 +576,7 @@
             "latitude": 38.9152,
             "longitude": -94.6393
         },
-        "description": "Joe's Barbeque is the most well known barbeque place in Kansas. If you want to try one of the foods that the state is known for there is no better place than Joe's Barbeque. ",
+        "description": "Joe's Barbeque is the most well known barbeque place in Kansas. If you want to try one of the foods that the state is known for there is no better place than Joe's Barbeque.",
         "imageName": "JoesBarbeque",
         "isoutside": false,
         "like": [
@@ -673,7 +673,7 @@
         "imageName": "DeannaRoseFarmstead",
         "isoutside": true,
         "like": [
-            "Negro Baseball Hall of Fame",
+            "Negro Leagues Baseball Hall of Fame",
             "Union Station",
             "T-Mobile Center"
         ]
@@ -692,7 +692,7 @@
             "latitude": 38.7978,
             "longitude": -94.691
         },
-        "description": "The Overland Park Arboretum & Botanical Gardens are a great way to get in touch which nature. The 300 acre area consists of 6 miles of trails and 8 different ecosystems. ",
+        "description": "The Overland Park Arboretum & Botanical Gardens are a great way to get in touch with nature. The 300 acre area consists of 6 miles of trails and 8 different ecosystems.",
         "imageName": "OverlandParkArboretum",
         "isoutside": true,
         "like": [
@@ -715,7 +715,7 @@
             "latitude": 38.9953,
             "longitude": -94.5319
         },
-        "description": "The Lakeside Nature Center is an incredible place to enjoy learning about local native wildlife, including birds of prey, snakes, amphibians, turtles, fish, and invertebrates. ",
+        "description": "The Lakeside Nature Center is an incredible place to enjoy learning about local native wildlife, including birds of prey, snakes, amphibians, turtles, fish, and invertebrates.",
         "imageName": "LakesideNatureCenter",
         "isoutside": true,
         "like": []
@@ -734,7 +734,7 @@
             "latitude": 39.9785,
             "longitude": -95.2994
         },
-        "description": "Rock City is a prairie are that contains 3 sets of large boulders. It is great place to visit to see the peculiar side of nature or to take pictures. ",
+        "description": "Rock City is a prairie that contains 3 sets of large boulders. It is great place to visit to witness nature's peculiar side or to take pictures.",
         "imageName": "RockCity",
         "isoutside": true,
         "like": [
@@ -781,7 +781,7 @@
             "latitude": 37.2892,
             "longitude": -95.91165
         },
-        "description": "The Elk River Hiking Trail is a 15 miles trail that is accesible year round. If you decide to go on this trail you can expect a long hike and a beatiful view. ",
+        "description": "The Elk River Hiking Trail is a 15 mile trail that is accesible year-round. If you decide to go on this trail you can expect a long hike and a beatiful view.",
         "imageName": "ElkRiverHikingTrail",
         "isoutside": true,
         "like": [
@@ -804,7 +804,7 @@
             "latitude": 39.1267,
             "longitude": -94.826
         },
-        "description": "Legends Mall is a great outdoor shooping mall with tons of outlets to shop from. Plus, if you get hungry while shopping there are various restaurants and ice cream places in the venue. There is also a movie theater at Legends Mall.",
+        "description": "Legends Mall is a great outdoor shopping mall with tons of outlets to shop from. Plus, if you get hungry while shopping, there are various restaurants and ice cream places in the venue. There is also a movie theater at Legends Mall.",
         "imageName": "LegendsMall",
         "isoutside": true,
         "like": [
@@ -826,7 +826,7 @@
             "latitude": 38.9531,
             "longitude": -94.7196
         },
-        "description": "Oak Park Mall is a great indoor shopping mall with tons of shopping options for clothes, accesories, toys, and anything else you may want. ",
+        "description": "Oak Park Mall is a great indoor shopping mall with tons of shopping options for clothes, accessories, toys, and anything else you may want.",
         "imageName": "OakParkMall",
         "isoutside": false,
         "like": [
@@ -848,7 +848,7 @@
             "latitude": 39.042,
             "longitude": -94.5926
         },
-        "description": "Country Club Plaza, designed after its sister city Seville, Spain, is a great area with lots of great restautants and bars. The nightlife at the Plaza is great, especiallly how the plaza lights up t night!",
+        "description": "Country Club Plaza, designed in the image of its sister city, Seville, Spain, is a great area with lots of great restaurants and bars. The nightlife at the Plaza is great, especiallly when the plaza lights up night!",
         "imageName": "CountryClubPlaza",
         "isoutside": true,
         "like": [
@@ -871,7 +871,7 @@
             "latitude": 39.081,
             "longitude": -94.5816
         },
-        "description": "Crown Center is a shopping center operated by Hallmark Cards. The shopping  complex features three levels of shops and restaurants, a set of grand open air fountains, live theaters, and an ice skating rink.",
+        "description": "Crown Center is a shopping center operated by Hallmark Cards. The shopping complex features three levels of shops and restaurants, a set of grand open air fountains, live theaters, and an ice skating rink.",
         "imageName": "CrownCenter",
         "isoutside": false,
         "like": [
@@ -916,11 +916,11 @@
             "latitude": 39.0975,
             "longitude": -94.5802
         },
-        "description": "The T-Mobile Center is a stadium for entertainment and has many purposes. Performers like Post Malone, Tyler the Creator, Wheezer, and Elton John have performed there. College basketball games are also sometimes played there. ",
+        "description": "The T-Mobile Center is a stadium for entertainment and has many purposes. Performers like Post Malone, Tyler the Creator, Weezer, and Elton John have performed there. College basketball games are also sometimes played there.",
         "imageName": "T-MobileCenter",
         "isoutside": false,
         "like": [
-            "Negro Baseball Hall of Fame",
+            "Negro Leagues Baseball Hall of Fame",
             "Union Station",
             "Deanna Rose Farmstead"
         ]
@@ -939,7 +939,7 @@
             "latitude": 39.0075,
             "longitude": -94.5328
         },
-        "description": "The Starligt Theater is home to Kansas City's best theater center. Some of the greatest plays and muscials in the state are performed at Starlight Theater. ",
+        "description": "The Starligt Theater is home to Kansas City's best theater center. Some of the greatest plays and muscials in the state are performed at Starlight Theater.",
         "imageName": "StarlightTheater",
         "isoutside": true,
         "like": [
@@ -962,7 +962,7 @@
             "latitude": 39.0792,
             "longitude": -95.6018
         },
-        "description": "Truckhenge is an abnormal attraction but an interesting one nontheless. It is art made out of trucks sticking out of the ground and is a must-see on a trip in Kansas. ",
+        "description": "Truckhenge is an abnormal attraction but an interesting one, nontheless. It is art made out of trucks sticking out of the ground and is a must-see on a trip in Kansas.",
         "imageName": "TruckHenge",
         "isoutside": true,
         "like": [
@@ -986,7 +986,7 @@
             "latitude": 39.2026,
             "longitude": -96.3054
         },
-        "description": "The Oz Museum is great for fanatics of the wonderful movie about the Wizard of Oz and Dorothy. Fun Fact, Dorothy was from Kansas in the story!",
+        "description": "The Oz Museum, situated in Dorothy's home state, is great for fanatics of the wonderful movie about the Wizard of Oz.",
         "imageName": "OzMuseum",
         "isoutside": false,
         "like": [
@@ -1010,7 +1010,7 @@
             "latitude": 39.2026,
             "longitude": -96.3054
         },
-        "description": "At the World's Largest Collections of Smallest Versions of Largest Things, see cool attractions like the smallest version of the world's largest rubber band ball. You can see meticultios, miniature versions of huge things.",
+        "description": "At the World's Largest Collections of Smallest Versions of Largest Things, see cool attractions like the smallest version of the world's largest rubber band ball. You can see miniature versions of huge things.",
         "imageName": "World_sLargestCollections",
         "isoutside": false,
         "like": [
@@ -1034,7 +1034,7 @@
             "latitude": 39.3508,
             "longitude": -101.7102
         },
-        "description": "At the Giant Van Gogh painting one can see a huge canvas with a large Van Gogh painting on it. This is a cool attraction and definitly something to take a picture of and the painting plus the canvas is 80 feet tall!",
+        "description": "At the Giant Van Gogh painting one can see a huge canvas with a large Van Gogh painting on it. This is a cool attraction and definitely something to take a picture of. It is 80 feet tall!",
         "imageName": "GiantVanGoghPainting",
         "isoutside": true,
         "like": [
@@ -1058,7 +1058,7 @@
             "latitude": 37.6034,
             "longitude": -99.2944
         },
-        "description": "At the Big Well, visitors can visit the bottom of the Big Well. They can also visit the Big Well Museum, contains a circular timeline of the city of Greensburg in three stages, including the beginnings of Greensburg, the Tornadic event, and the Eco-Friendly Rebuilding of Greensburg.",
+        "description": "At the Big Well, visitors can visit the bottom of a big well. They can also visit the Big Well Museum, which contains a circular timeline of the city of Greensburg in three stages, including the beginnings of Greensburg, the Tornadic event, and the Eco-Friendly Rebuilding of Greensburg.",
         "imageName": "TheBigWell",
         "isoutside": false,
         "like": [
@@ -1081,7 +1081,7 @@
             "latitude": 45.0963,
             "longitude": -94.4103
         },
-        "description": "The World's Largest Ball of Twine is very self-explanatory. It is the world's largest ball of Twine and it is a great attraction to visit. The Twine ball is 12 feet and weight 17,400 pounds. ",
+        "description": "The World's Largest Ball of Twine is self-explanatory. It is the world's largest ball of twine, and it is a great attraction to visit. The twine ball is 12 feet wide and weighs 17,400 pounds.",
         "imageName": "World_sLargestBallofTwine",
         "isoutside": true,
         "like": [
@@ -1105,7 +1105,7 @@
             "latitude": 38.8242,
             "longitude": -98.4727
         },
-        "description": "The World's Largest Czech Egg is a must see because of its intricte design despite its large nature. The black egg is decorated with white lines and jewels. ",
+        "description": "The World's Largest Czech Egg is a must see because of its intricate design, despite its large stature. The black egg is decorated with many jewels.",
         "imageName": "World_sLargestCzechEgg",
         "isoutside": true,
         "like": [
@@ -1129,7 +1129,7 @@
             "latitude": 39.5507,
             "longitude": -95.5213
         },
-        "description": "Baseball, Americas Largest Pastime, has a new attraction. The world's largest baseball is  20 feet wide. ",
+        "description": "Baseball, America's Pastime, has a new attraction. The world's largest baseball is  20 feet wide.",
         "imageName": "WorldsLargestBaseball",
         "isoutside": true,
         "like": [
