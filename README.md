@@ -125,7 +125,7 @@ All 3rd party resources are used under perpetual or circumstantial licenses, and
 
 Images appearing in the application are used under the **Creative Commons** license.
 
-The OpenWeatherMap API was used in ***TourKC*** consistent with all agreements and licenses.
+The OpenWeatherMap API is used in ***TourKC*** consistently with all agreements and licenses.
 
 The application was built, using a tutorial from **Apple** as a starting point. Significant modifications were made to the code and accompanying data.
 
