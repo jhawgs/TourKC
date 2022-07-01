@@ -9,13 +9,13 @@ import SwiftUI
 
 struct LandmarkList: View {
     @EnvironmentObject var modelData: ModelData
-    @State private var showFavoritesOnly: Bool = false
-    @State private var weatherOnly: Bool = false
-    @State private var search: String = ""
-    @State private var filteredCategory: Landmark.Category? = nil
-    @State private var filteredCharacteristic: Landmark.Characteristic? = nil
+    @State private var showFavoritesOnly: Bool = false //Starts app with favorite only feature off
+    @State private var weatherOnly: Bool = false //Starts app with weather only feature off
+    @State private var search: String = "" //enables the user to type strings
+    @State private var filteredCategory: Landmark.Category? = nil //Starts app with no category filter
+    @State private var filteredCharacteristic: Landmark.Characteristic? = nil //Starts app with no characteristic filter
     
-    func set_cat(_ cat: Landmark.Category) {
+    func set_cat(_ cat: Landmark.Category) { //Sets Categories to filter/update
         if filteredCategory == cat {
             filteredCategory = nil
         } else {
@@ -23,7 +23,7 @@ struct LandmarkList: View {
         }
     }
     
-    func set_char(_ cat: Landmark.Characteristic) {
+    func set_char(_ cat: Landmark.Characteristic) { //Sets Characteristics to filter/update
         if filteredCharacteristic == cat {
             filteredCharacteristic = nil
         } else {
@@ -33,16 +33,16 @@ struct LandmarkList: View {
 
     var filteredLandmarks: [Landmark] {
         modelData.landmarks.filter { landmark in
-            (!showFavoritesOnly || landmark.isFavorite)
+            (!showFavoritesOnly || landmark.isFavorite) //Filters By Favorite
         }
         .filter { landmark in
-            (search == "" || landmark.name.contains(search))
+            (search == "" || landmark.name.contains(search)) // Filters by Search
         }
         .filter { landmark in
-            (filteredCategory == nil || landmark.category == filteredCategory)
+            (filteredCategory == nil || landmark.category == filteredCategory) //Filters by category
         }
         .filter { landmark in
-            (filteredCharacteristic == nil || landmark.characteristic == filteredCharacteristic)
+            (filteredCharacteristic == nil || landmark.characteristic == filteredCharacteristic) //Filters by characteristic
         }
         .filter { landmark in
             (!weatherOnly || modelData.isWeatherPermit(landmark))
