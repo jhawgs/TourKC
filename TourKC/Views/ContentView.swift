@@ -17,22 +17,24 @@ struct ContentView: View {
 
     var body: some View {
         if (UIDevice.current.userInterfaceIdiom == .phone) {
+            //View in phone
             TabView(selection: $selection) {
-                CategoryHome()
+                CategoryHome() //CategoryHome View
                     .tabItem {
-                        Label("Featured", systemImage: "star")
+                        Label("Featured", systemImage: "star") //Sets image to tabView in phone View
                     }
                     .tag(Tab.featured)
                     .environmentObject(ModelData())
 
-                LandmarkList()
+                LandmarkList() //LandmarkList View
                     .tabItem {
-                        Label("List", systemImage: "list.bullet")
+                        Label("List", systemImage: "list.bullet") //Sets image to tabView in phone View
                     }
                     .tag(Tab.list)
                     .environmentObject(ModelData())
             }
         } else {
+            //View on other IOS devices
             CategoryHome()
                 .environmentObject(ModelData())
         }
