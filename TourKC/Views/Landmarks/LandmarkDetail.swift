@@ -17,19 +17,20 @@ struct LandmarkDetail: View {
     }
 
     var body: some View {
-        ScrollView {
-            MapView(coordinate: landmark.locationCoordinate)
+        ScrollView { //Allows user to scroll
+            MapView(coordinate: landmark.locationCoordinate)//Mapview 
                 .ignoresSafeArea(edges: .top)
                 .frame(height: 300)
 
-            CircleImage(image: landmark.image)
+            CircleImage(image: landmark.image) //Circle Image of the Attraction
                 .offset(y: -130)
                 .padding(.bottom, -130)
 
             VStack(alignment: .leading) {
                 HStack {
+                    // Set attractions name next to favortie button 
                     Text(landmark.name)
-                        .font(.title)
+                        .font(.title) 
                     FavoriteButton(isSet: $modelData.landmarks[landmarkIndex].isFavorite, name: landmark.name)
                 }
 
@@ -42,13 +43,15 @@ struct LandmarkDetail: View {
 
                 Divider()
 
-                Text("About \(landmark.name)")
+                Text("About \(landmark.name)") //Layout with name
                     .font(.title2)
+                //Description, website, and similare attractions reccomendation
                 Text(.init("\(landmark.description) To learn more about \(landmark.name), visit their website [here](\(landmark.website))."))
                 if (landmark.like.count > 0) {
                     Text("\n")
                     Text("You Might Also Like")
                         .font(.title2)
+                    // Interacts with Kmeans clustering algorithm to show similar locations
                     ForEach(modelData.names2landmark(names: landmark.like)) { landmark in
                         NavigationLink {
                             LandmarkDetail(landmark: landmark)
@@ -60,7 +63,7 @@ struct LandmarkDetail: View {
             }
             .padding()
         }
-        .navigationTitle(landmark.name)
+        .navigationTitle(landmark.name) //Sets title as name
         .navigationBarTitleDisplayMode(.inline)
     }
 }
